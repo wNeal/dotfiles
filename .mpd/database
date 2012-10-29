@@ -1,0 +1,1207 @@
+info_begin
+format: 1
+mpd_version: 0.16.8
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: Attila
+mtime: 1340251423
+begin: Attila
+directory: Fallacy
+mtime: 1340251477
+begin: Attila/Fallacy
+song_begin: 02 No One Will Return.mp3
+Time: 173
+Artist: Attila
+Title: No One Will Return
+Album: Fallacy
+Track: 2/11
+Date: 2007
+Genre: Deathcore / Metalcore
+mtime: 1340251471
+song_end
+song_begin: 03 Under My Breath.mp3
+Time: 203
+Artist: Attila
+Title: Under My Breath
+Album: Fallacy
+Track: 3/11
+Date: 2007
+Genre: Deathcore / Metalcore
+mtime: 1340251473
+song_end
+song_begin: 04 Fallacy.mp3
+Time: 333
+Artist: Attila
+Title: Fallacy
+Album: Fallacy
+Track: 4/11
+Date: 2007
+Genre: Deathcore / Metalcore
+mtime: 1340251477
+song_end
+song_begin: 05 Amelia Bedilia Is A Whore.mp3
+Time: 187
+Artist: Attila
+Title: Amelia Bedilia Is A Whore
+Album: Fallacy
+Track: 5/11
+Date: 2007
+Genre: Deathcore / Metalcore
+mtime: 1340251472
+song_end
+song_begin: 06 666.mp3
+Time: 52
+Artist: Attila
+Title: 666
+Album: Fallacy
+Track: 6/11
+Date: 2007
+Genre: Deathcore / Metalcore
+mtime: 1340251469
+song_end
+song_begin: 07 Hanging From A Lamp Post.mp3
+Time: 272
+Artist: Attila
+Title: Hanging From A Lamp Post
+Album: Fallacy
+Track: 7/11
+Date: 2007
+Genre: Deathcore / Metalcore
+mtime: 1340251475
+song_end
+song_begin: 08 What Would Chuck Norris Do.mp3
+Time: 242
+Artist: Attila
+Title: What Would Chuck Norris Do
+Album: Fallacy
+Track: 8/11
+Date: 2007
+Genre: Deathcore / Metalcore
+mtime: 1340251477
+song_end
+song_begin: 09 Taking The Lives Of The Ignorant.mp3
+Time: 181
+Artist: Attila
+Title: Taking The Lives Of The Ignorant
+Album: Fallacy
+Track: 9/11
+Date: 2007
+Genre: Deathcore / Metalcore
+mtime: 1340251473
+song_end
+song_begin: 10 Caddywampus.mp3
+Time: 191
+Artist: Attila
+Title: Caddywampus
+Album: Fallacy
+Track: 10/11
+Date: 2007
+Genre: Deathcore / Metalcore
+mtime: 1340251468
+song_end
+song_begin: 11 Flying With The Kennedys.mp3
+Time: 564
+Artist: Attila
+Title: Flying With The Kennedys
+Album: Fallacy
+Track: 11/11
+Date: 2007
+Genre: Deathcore / Metalcore
+mtime: 1340251474
+song_end
+song_begin: 01 Sunsets And Death Threats.mp3
+Time: 223
+Artist: Attila
+Title: Sunsets And Death Threats
+Album: Fallacy
+Track: 1/11
+Date: 2007
+Genre: Deathcore / Metalcore
+Disc: 1/1
+mtime: 1340251470
+song_end
+end: Attila/Fallacy
+directory: Soundtrack To A Party
+mtime: 1340251477
+begin: Attila/Soundtrack To A Party
+song_begin: 01 Lets Start the Party.mp3
+Time: 126
+Artist: Attila
+Title: Lets Start the Party
+Album: Soundtrack to a Party
+Track: 1
+Date: 2008
+Genre: Deathcore
+mtime: 1340251475
+song_end
+song_begin: 02 One Night Stand.mp3
+Time: 200
+Artist: Attila
+Title: One Night Stand
+Album: Soundtrack to a Party
+Track: 2
+Date: 2008
+Genre: Deathcore
+mtime: 1340251476
+song_end
+song_begin: 03 You looked a lot Better Last Night.mp3
+Time: 219
+Artist: Attila
+Title: You looked a lot Better Last Night
+Album: Soundtrack to a Party
+Track: 3
+Date: 2008
+Genre: Deathcore
+mtime: 1340251472
+song_end
+song_begin: 04 Lemme Get a Newport.mp3
+Time: 229
+Artist: Attila
+Title: Lemme Get a Newport
+Album: Soundtrack to a Party
+Track: 4
+Date: 2008
+Genre: Deathcore
+mtime: 1340251476
+song_end
+song_begin: 05 Belligerent.mp3
+Time: 209
+Artist: Attila
+Title: Belligerent
+Album: Soundtrack to a Party
+Track: 5
+Date: 2008
+Genre: Deathcore
+mtime: 1340251476
+song_end
+song_begin: 06 Soda in a Water Cup.mp3
+Time: 253
+Artist: Attila
+Title: Soda in a Water Cup
+Album: Soundtrack to a Party
+Track: 6
+Date: 2008
+Genre: Deathcore
+mtime: 1340251477
+song_end
+song_begin: 07 Deuce-Deuce.mp3
+Time: 190
+Artist: Attila
+Title: Deuce-Deuce
+Album: Soundtrack to a Party
+Track: 7
+Date: 2008
+Genre: Deathcore
+mtime: 1340251475
+song_end
+song_begin: 08 What Would Kimbo Slice Do_.mp3
+Time: 256
+Artist: Attila
+Title: What Would Kimbo Slice Do?
+Album: Soundtrack to a Party
+Track: 8
+Date: 2008
+Genre: Deathcore
+mtime: 1340251473
+song_end
+song_begin: 09 Sunsets and Death Threats.mp3
+Time: 54
+Artist: Attila
+Title: Sunsets and Death Threats
+Album: Soundtrack to a Party
+Track: 9
+Date: 2008
+Genre: Deathcore
+mtime: 1340251457
+song_end
+song_begin: 10 Unbelievable.mp3
+Time: 268
+Artist: Attila
+Title: Unbelievable
+Album: Soundtrack to a Party
+Track: 10
+Date: 2008
+Genre: Deathcore
+mtime: 1340251475
+song_end
+end: Attila/Soundtrack To A Party
+end: Attila
+directory: Attila - Rage (2010)
+mtime: 1340251439
+begin: Attila - Rage (2010)
+song_begin: 01 The End.mp3
+Time: 26
+Artist: Attila
+Title: The End
+Album: Rage
+Track: 1
+Date: 2010
+Genre: Deathcore / Metalcore
+mtime: 1340251435
+song_end
+song_begin: 02 Make It Sick.mp3
+Time: 171
+Artist: Attila
+Title: Make It Sick
+Album: Rage
+Track: 2
+Date: 2010
+Genre: Deathcore / Metalcore
+mtime: 1340251433
+song_end
+song_begin: 03 The Invitation.mp3
+Time: 176
+Artist: Attila
+Title: The Invitation
+Album: Rage
+Track: 3
+Date: 2010
+Genre: Deathcore / Metalcore
+mtime: 1340251435
+song_end
+song_begin: 04 Rage.mp3
+Time: 214
+Artist: Attila
+Title: Rage
+Album: Rage
+Track: 4
+Date: 2010
+Genre: Deathcore / Metalcore
+mtime: 1340251439
+song_end
+song_begin: 05 Lights Out.mp3
+Time: 192
+Artist: Attila
+Title: Lights Out
+Album: Rage
+Track: 5
+Date: 2010
+Genre: Deathcore / Metalcore
+mtime: 1340251433
+song_end
+song_begin: 06 Temper.mp3
+Time: 191
+Artist: Attila
+Title: Temper
+Album: Rage
+Track: 6
+Date: 2010
+Genre: Deathcore / Metalcore
+mtime: 1340251434
+song_end
+song_begin: 07 Girls Don't Lie.mp3
+Time: 172
+Artist: Attila
+Title: Girls Don't Lie
+Album: Rage
+Track: 7
+Date: 2010
+Genre: Deathcore / Metalcore
+mtime: 1340251433
+song_end
+song_begin: 08 Strikeout.mp3
+Time: 67
+Artist: Attila
+Title: Strikeout
+Album: Rage
+Track: 8
+Date: 2010
+Genre: Deathcore / Metalcore
+mtime: 1340251431
+song_end
+song_begin: 09 Cheyenne 420.mp3
+Time: 171
+Artist: Attila
+Title: Cheyenne 420
+Album: Rage
+Track: 9
+Date: 2010
+Genre: Deathcore / Metalcore
+mtime: 1340251431
+song_end
+song_begin: 10 Jumanji.mp3
+Time: 239
+Artist: Attila
+Title: Jumanji
+Album: Rage
+Track: 10
+Date: 2010
+Genre: Deathcore / Metalcore
+mtime: 1340251434
+song_end
+end: Attila - Rage (2010)
+directory: Attila-Outlawed-2011-KzT
+mtime: 1340251510
+begin: Attila-Outlawed-2011-KzT
+song_begin: 01-attila-outlawed.mp3
+Time: 122
+Artist: Attila
+Title: Outlawed
+Album: Outlawed
+Track: 1/10
+Date: 2011-08-16
+Genre: Hardcore
+mtime: 1340251508
+song_end
+song_begin: 02-attila-light_me_up.mp3
+Time: 184
+Artist: Attila
+Title: Light Me Up
+Album: Outlawed
+Track: 2/10
+Date: 2011-08-16
+Genre: Hardcore
+mtime: 1340251509
+song_end
+song_begin: 03-attila-nothing_left_to_say.mp3
+Time: 182
+Artist: Attila
+Title: Nothing Left To Say
+Album: Outlawed
+Track: 3/10
+Date: 2011-08-16
+Genre: Hardcore
+mtime: 1340251509
+song_end
+song_begin: 04-attila-another_round.mp3
+Time: 158
+Artist: Attila
+Title: Another Round
+Album: Outlawed
+Track: 4/10
+Date: 2011-08-16
+Genre: Hardcore
+mtime: 1340251508
+song_end
+song_begin: 05-attila-nasty_mouth.mp3
+Time: 209
+Artist: Attila
+Title: Nasty Mouth
+Album: Outlawed
+Track: 5/10
+Date: 2011-08-16
+Genre: Hardcore
+mtime: 1340251510
+song_end
+song_begin: 06-attila-smokeout.mp3
+Time: 161
+Artist: Attila
+Title: Smokeout
+Album: Outlawed
+Track: 6/10
+Date: 2011-08-16
+Genre: Hardcore
+mtime: 1340251507
+song_end
+song_begin: 07-attila-holler_at_ya_boy.mp3
+Time: 205
+Artist: Attila
+Title: Holler At Ya Boy
+Album: Outlawed
+Track: 7/10
+Date: 2011-08-16
+Genre: Hardcore
+mtime: 1340251509
+song_end
+song_begin: 08-attila-sex_drugs_and_violence.mp3
+Time: 170
+Artist: Attila
+Title: Sex, Drugs & Violence
+Album: Outlawed
+Track: 8/10
+Date: 2011-08-16
+Genre: Hardcore
+mtime: 1340251507
+song_end
+song_begin: 09-attila-white_lightning.mp3
+Time: 179
+Artist: Attila
+Title: White Lightning
+Album: Outlawed
+Track: 9/10
+Date: 2011-08-16
+Genre: Hardcore
+mtime: 1340251507
+song_end
+song_begin: 10-attila-payback.mp3
+Time: 215
+Artist: Attila
+Title: Payback
+Album: Outlawed
+Track: 10/10
+Date: 2011-08-16
+Genre: Hardcore
+mtime: 1340251510
+song_end
+playlist_begin: 00-attila-outlawed-2011.m3u
+mtime: 1340251482
+playlist_end
+end: Attila-Outlawed-2011-KzT
+directory: Dr. Acula - Nation (2012) [mp3@320]
+mtime: 1340252945
+begin: Dr. Acula - Nation (2012) [mp3@320]
+song_begin: 01. Be Careful What You Wish For....mp3
+Time: 47
+Artist: Dr. Acula
+Title: Be Careful What You Wish For...
+Album: Nation
+Track: 1
+Date: 2012
+Genre: Metalcore / Deathcore
+mtime: 1340252897
+song_end
+song_begin: 02. Heavy Handed.mp3
+Time: 125
+Artist: Dr. Acula
+Title: Heavy Handed
+Album: Nation
+Track: 2
+Date: 2012
+Genre: Metalcore / Deathcore
+mtime: 1340252934
+song_end
+song_begin: 03. Keep On Running In Place.mp3
+Time: 176
+Artist: Dr. Acula
+Title: Keep On Running In Place
+Album: Nation
+Track: 3
+Date: 2012
+Genre: Metalcore / Deathcore
+mtime: 1340252944
+song_end
+song_begin: 04. The Party Is Over (Locked On Target).mp3
+Time: 143
+Artist: Dr. Acula
+Title: The Party Is Over (Locked On Target)
+Album: Nation
+Track: 4
+Date: 2012
+Genre: Metalcore / Deathcore
+mtime: 1340252923
+song_end
+song_begin: 05. Ironic Enclosure.mp3
+Time: 202
+Artist: Dr. Acula
+Title: Ironic Enclosure
+Album: Nation
+Track: 5
+Date: 2012
+Genre: Metalcore / Deathcore
+mtime: 1340252939
+song_end
+song_begin: 06. Dressed for Transylvania In the Boiling Weather (Lipstick Guys).mp3
+Time: 198
+Artist: Dr. Acula
+Title: Dressed for Transylvania In the Boiling Weather (Lipstick Guys)
+Album: Nation
+Track: 6
+Date: 2012
+Genre: Metalcore / Deathcore
+mtime: 1340252937
+song_end
+song_begin: 07. Nation.mp3
+Time: 176
+Artist: Dr. Acula
+Title: Nation
+Album: Nation
+Track: 7
+Date: 2012
+Genre: Metalcore / Deathcore
+mtime: 1340252941
+song_end
+song_begin: 08. Robot People From Hell.mp3
+Time: 117
+Artist: Dr. Acula
+Title: Robot People From Hell
+Album: Nation
+Track: 8
+Date: 2012
+Genre: Metalcore / Deathcore
+mtime: 1340252936
+song_end
+song_begin: 09. Suburban Superstar (Strung Out On Strong Island).mp3
+Time: 167
+Artist: Dr. Acula
+Title: Suburban Superstar (Strung Out On Strong Island)
+Album: Nation
+Track: 9
+Date: 2012
+Genre: Metalcore / Deathcore
+mtime: 1340252942
+song_end
+song_begin: 10. Areola 51.mp3
+Time: 209
+Artist: Dr. Acula
+Title: Areola 51
+Album: Nation
+Track: 10
+Date: 2012
+Genre: Metalcore / Deathcore
+mtime: 1340252943
+song_end
+song_begin: 11. Citizen's Arrest.mp3
+Time: 144
+Artist: Dr. Acula
+Title: Citizen's Arrest
+Album: Nation
+Track: 11
+Date: 2012
+Genre: Metalcore / Deathcore
+mtime: 1340252944
+song_end
+song_begin: 12. Thinner.mp3
+Time: 189
+Artist: Dr. Acula
+Title: Thinner
+Album: Nation
+Track: 12
+Date: 2012
+Genre: Metalcore / Deathcore
+mtime: 1340252939
+song_end
+end: Dr. Acula - Nation (2012) [mp3@320]
+directory: Dr. Acula - Slander (2011)
+mtime: 1340252750
+begin: Dr. Acula - Slander (2011)
+song_begin: 01 Clinger (Stage 5).mp3
+Time: 46
+Artist: Dr. Acula
+Title: Clinger (Stage 5)
+Album: Slander
+Track: 1/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252748
+song_end
+song_begin: 02 Fire Crotch (The Venereal Van Ride).mp3
+Time: 160
+Artist: Dr. Acula
+Title: Fire Crotch (The Venereal Van Ride)
+Album: Slander
+Track: 2/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252748
+song_end
+song_begin: 03 Welcome To Camp Nightmare.mp3
+Time: 232
+Artist: Dr. Acula
+Title: Welcome To Camp Nightmare
+Album: Slander
+Track: 3/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252749
+song_end
+song_begin: 04 Currently Sexting.mp3
+Time: 164
+Artist: Dr. Acula
+Title: Currently Sexting
+Album: Slander
+Track: 4/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252749
+song_end
+song_begin: 05 Cocaine Avalanche.mp3
+Time: 197
+Artist: Dr. Acula
+Title: Cocaine Avalanche
+Album: Slander
+Track: 5/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252747
+song_end
+song_begin: 06 Song Before The Song.mp3
+Time: 226
+Artist: Dr. Acula
+Title: Song Before The Song
+Album: Slander
+Track: 6/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252748
+song_end
+song_begin: 07 Pure And Immature (Goon).mp3
+Time: 175
+Artist: Dr. Acula
+Title: Pure And Immature (Goon)
+Album: Slander
+Track: 7/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252745
+song_end
+song_begin: 08 Who You Gonna Call_.mp3
+Time: 222
+Artist: Dr. Acula
+Title: Who You Gonna Call?
+Album: Slander
+Track: 8/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252747
+song_end
+song_begin: 09 All Work No Play.mp3
+Time: 179
+Artist: Dr. Acula
+Title: All Work No Play
+Album: Slander
+Track: 9/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252750
+song_end
+song_begin: 10 Slander.mp3
+Time: 229
+Artist: Dr. Acula
+Title: Slander
+Album: Slander
+Track: 10/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252749
+song_end
+song_begin: 11 Slampig (...And Then The Bitch).mp3
+Time: 167
+Artist: Dr. Acula
+Title: Slampig (...And Then The Bitch)
+Album: Slander
+Track: 11/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252749
+song_end
+song_begin: 12 Party 2.0.mp3
+Time: 125
+Artist: Dr. Acula
+Title: Party 2.0
+Album: Slander
+Track: 12/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252746
+song_end
+song_begin: 13 The Big Sleep.mp3
+Time: 168
+Artist: Dr. Acula
+Title: The Big Sleep
+Album: Slander
+Track: 13/13
+Date: 2011
+Disc: 1/1
+mtime: 1340252749
+song_end
+end: Dr. Acula - Slander (2011)
+directory: Dr.Acula - The Social Event of The Century (2010-mp3)
+mtime: 1340252885
+begin: Dr.Acula - The Social Event of The Century (2010-mp3)
+song_begin: 01 (Welcome To) The Social Event Of The Century.mp3
+Time: 151
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Album: The Social Event of The Century
+Genre: Other
+mtime: 1340252883
+song_end
+song_begin: 02 Theres No Glory in Fame.mp3
+Time: 147
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Album: The Social Event of The Century
+Genre: Other
+mtime: 1340252884
+song_end
+song_begin: 03 The MusicVideo Game Olympics.mp3
+Time: 121
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Album: The Social Event of The Century
+Genre: Other
+mtime: 1340252883
+song_end
+song_begin: 04 New York California & Nowhere In Between.mp3
+Time: 132
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Album: The Social Event of The Century
+Genre: Other
+mtime: 1340252883
+song_end
+song_begin: 05 Wendel.mp3
+Time: 126
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Album: The Social Event of The Century
+Genre: Other
+mtime: 1340252883
+song_end
+song_begin: 06 The L Train To High Street.mp3
+Time: 260
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Album: The Social Event of The Century
+Genre: Other
+mtime: 1340252884
+song_end
+song_begin: 07 Cockoff!.mp3
+Time: 156
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Album: The Social Event of The Century
+Genre: Other
+mtime: 1340252884
+song_end
+song_begin: 08 The Rise And Fall of T.H.C. Tennis.mp3
+Time: 138
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Album: The Social Event of The Century
+Genre: Other
+mtime: 1340252883
+song_end
+song_begin: 09 Is This A Party Or A Dick Measuring Contest.mp3
+Time: 112
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Album: The Social Event of The Century
+Genre: Other
+mtime: 1340252884
+song_end
+song_begin: 10 Showstopper!.mp3
+Time: 203
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Album: The Social Event of The Century
+Genre: Other
+mtime: 1340252885
+song_end
+end: Dr.Acula - The Social Event of The Century (2010-mp3)
+directory: Enter Shikari - A Flash Flood Of Colour  (2012)
+mtime: 1339571531
+begin: Enter Shikari - A Flash Flood Of Colour  (2012)
+song_begin: 01. System….mp3
+Time: 118
+Artist: Enter Shikari
+Title: System
+Album: A Flash Flood of Colour
+Track: 1
+Date: 2012
+mtime: 1339571528
+song_end
+song_begin: 02. …Meltdown.mp3
+Time: 204
+Artist: Enter Shikari
+Title: Meltdown
+Album: A Flash Flood of Colour
+Track: 2
+Date: 2012
+mtime: 1339571529
+song_end
+song_begin: 03. Sssnakepit.mp3
+Time: 206
+Artist: Enter Shikari
+Title: Sssnakepit
+Album: A Flash Flood of Colour
+Track: 3
+Date: 2012
+mtime: 1339571531
+song_end
+song_begin: 06. Stalemate.mp3
+Time: 258
+Artist: Enter Shikari
+Title: Stalemate
+Album: A Flash Flood of Colour
+Track: 3
+Date: 2012
+mtime: 1339571530
+song_end
+song_begin: 04. Search Party.mp3
+Time: 246
+Artist: Enter Shikari
+Title: Search Party
+Album: A Flash Flood of Colour
+Track: 4
+Date: 2012
+mtime: 1339571528
+song_end
+song_begin: 05. Arguing With Thermometers.mp3
+Time: 204
+Artist: Enter Shikari
+Title: Arguing With Thermometers
+Album: A Flash Flood of Colour
+Track: 5
+Date: 2012
+mtime: 1339571529
+song_end
+song_begin: 07. Gandhi Mate, Gandhi.mp3
+Time: 267
+Artist: Enter Shikari
+Title: Gandhi Mate, Gandhi
+Album: A Flash Flood of Colour
+Track: 7
+Date: 2012
+mtime: 1339571530
+song_end
+song_begin: 08. Warm Smiles Do Not Make You Welcome Here.mp3
+Time: 278
+Artist: Enter Shikari
+Title: Warm Smiles Do Not Make You Welcome Here
+Album: A Flash Flood of Colour
+Track: 8
+Date: 2012
+mtime: 1339571528
+song_end
+song_begin: 09. Pack Of Thieves.mp3
+Time: 238
+Artist: Enter Shikari
+Title: Pack Of Thieves
+Album: A Flash Flood of Colour
+Track: 9
+Date: 2012
+mtime: 1339571531
+song_end
+song_begin: 10. Hello Tyrannosaurus, Meet Tyrannicide.mp3
+Time: 227
+Artist: Enter Shikari
+Title: Hello Tyrannosaurus, Meet Tyrannicide
+Album: A Flash Flood of Colour
+Track: 10
+Date: 2012
+mtime: 1339571528
+song_end
+song_begin: 11. Constellations.mp3
+Time: 301
+Artist: Enter Shikari
+Title: Constellations
+Album: A Flash Flood of Colour
+Track: 11
+Date: 2012
+mtime: 1339571528
+song_end
+song_begin: 12. Sssnakepit (Hamilton Remix).mp3
+Time: 292
+Artist: Enter Shikari
+Title: Sssnakepit (Hamilton Remix)
+Album: A Flash Flood of Colour
+Track: 12
+Date: 2012
+mtime: 1339571530
+song_end
+song_begin: 13. Sssnakepit (Serial Killaz Remix).mp3
+Time: 330
+Artist: Enter Shikari
+Title: Sssnakepit (Serial Killaz Remi
+Album: A Flash Flood of Colour
+Track: 13
+mtime: 1339571530
+song_end
+song_begin: 14. Quelle Surprise.mp3
+Time: 275
+Artist: Enter Shikari
+Title: Quelle Surprise
+Album: A Flash Flood of Colour
+Track: 14
+Date: 2012
+mtime: 1339571530
+song_end
+song_begin: 15. Destabilise.mp3
+Time: 272
+Artist: Enter Shikari
+Title: Destabilise
+Album: A Flash Flood of Colour
+Track: 15
+Date: 2012
+mtime: 1339571531
+song_end
+end: Enter Shikari - A Flash Flood Of Colour  (2012)
+directory: Stick To Your Guns - Diamond (2012) Deluxe [VBR]
+mtime: 1340253127
+begin: Stick To Your Guns - Diamond (2012) Deluxe [VBR]
+song_begin: 01. Diamond.mp3
+Time: 145
+Artist: Stick To Your Guns
+Title: Diamond
+Album: Diamond
+Track: 1/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253125
+song_end
+song_begin: 02. Against Them All.mp3
+Time: 198
+Artist: Stick To Your Guns
+Title: Against Them All
+Album: Diamond
+Track: 2/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253126
+song_end
+song_begin: 03. Such Pain.mp3
+Time: 158
+Artist: Stick To Your Guns
+Title: Such Pain
+Album: Diamond
+Track: 3/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253121
+song_end
+song_begin: 04. The Bond.mp3
+Time: 157
+Artist: Stick To Your Guns
+Title: The Bond
+Album: Diamond
+Track: 4/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253123
+song_end
+song_begin: 05. We Still Believe.mp3
+Time: 214
+Artist: Stick To Your Guns
+Title: We Still Believe
+Album: Diamond
+Track: 5/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253126
+song_end
+song_begin: 06. Ring Loud (Last Hope).mp3
+Time: 179
+Artist: Stick To Your Guns
+Title: Ring Loud (Last Hope)
+Album: Diamond
+Track: 6/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253124
+song_end
+song_begin: 07. Empty Heads.mp3
+Time: 175
+Artist: Stick To Your Guns
+Title: Empty Heads
+Album: Diamond
+Track: 7/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253124
+song_end
+song_begin: 08. Beyond The Sun.mp3
+Time: 257
+Artist: Stick To Your Guns
+Title: Beyond The Sun
+Album: Diamond
+Track: 8/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253122
+song_end
+song_begin: 09. Life In A Box.mp3
+Time: 89
+Artist: Stick To Your Guns
+Title: Life In A Box
+Album: Diamond
+Track: 9/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253127
+song_end
+song_begin: 10. Bringing You Down.mp3
+Time: 232
+Artist: Stick To Your Guns
+Title: Bringing You Down
+Album: Diamond
+Track: 10/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253122
+song_end
+song_begin: 11. D(i am)ond.mp3
+Time: 105
+Artist: Stick To Your Guns
+Title: D(i am)ond
+Album: Diamond
+Track: 11/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253123
+song_end
+song_begin: 12. Built Upon The Sand.mp3
+Time: 164
+Artist: Stick To Your Guns
+Title: Built Upon The Sand
+Album: Diamond
+Track: 12/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253124
+song_end
+song_begin: 13. Just Like Me.mp3
+Time: 183
+Artist: Stick To Your Guns
+Title: Just Like Me
+Album: Diamond
+Track: 13/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253125
+song_end
+song_begin: 14. We Still Believe (Acoustic).mp3
+Time: 235
+Artist: Stick To Your Guns
+Title: We Still Believe (Acoustic)
+Album: Diamond
+Track: 14/14
+Date: 2012
+Genre: Hardcore
+mtime: 1340253124
+song_end
+playlist_begin: 00-stick_to_your_guns-diamond-2012.m3u
+mtime: 1340253038
+playlist_end
+end: Stick To Your Guns - Diamond (2012) Deluxe [VBR]
+directory: Stick To Your Guns - The Hope Division (2010-mp3)
+mtime: 1340253063
+begin: Stick To Your Guns - The Hope Division (2010-mp3)
+song_begin: 01 Where The Sun Never Sleeps.mp3
+Time: 204
+Artist: Stick To Your Guns
+Title: Where The Sun Never Sleeps
+Album: The Hope Division
+Track: 1/12
+Date: 2010-06-01
+Genre: Hardcore
+mtime: 1340253060
+song_end
+song_begin: 02 What Goes Around.mp3
+Time: 98
+Artist: Stick To Your Guns
+Title: What Goes Around
+Album: The Hope Division
+Track: 2/12
+Date: 2010-06-01
+Genre: Hardcore
+mtime: 1340253059
+song_end
+song_begin: 03 Faith In The Untamed.mp3
+Time: 221
+Artist: Stick To Your Guns
+Title: Faith In The Untamed
+Album: The Hope Division
+Track: 3/12
+Date: 2010-06-01
+Genre: Hardcore
+mtime: 1340253059
+song_end
+song_begin: 04 Amber.mp3
+Time: 215
+Artist: Stick To Your Guns
+Title: Amber
+Album: The Hope Division
+Track: 4/12
+Date: 2010-06-01
+Genre: Hardcore
+mtime: 1340253063
+song_end
+song_begin: 05 Wolves At The Door.mp3
+Time: 200
+Artist: Stick To Your Guns
+Title: Wolves At The Door
+Album: The Hope Division
+Track: 5/12
+Date: 2010-06-01
+Genre: Hardcore
+mtime: 1340253063
+song_end
+song_begin: 06 Some Kind Of Hope.mp3
+Time: 257
+Artist: Stick To Your Guns
+Title: Some Kind Of Hope
+Album: The Hope Division
+Track: 6/12
+Date: 2010-06-01
+Genre: Hardcore
+mtime: 1340253063
+song_end
+song_begin: 07 Scarecrow.mp3
+Time: 196
+Artist: Stick To Your Guns
+Title: Scarecrow
+Album: The Hope Division
+Track: 7/12
+Date: 2010-06-01
+Genre: Hardcore
+mtime: 1340253058
+song_end
+song_begin: 08 Life Through Western Eyes.mp3
+Time: 106
+Artist: Stick To Your Guns
+Title: Life Through Western Eyes
+Album: The Hope Division
+Track: 8/12
+Date: 2010-06-01
+Genre: Hardcore
+mtime: 1340253054
+song_end
+song_begin: 09 3-60.mp3
+Time: 167
+Artist: Stick To Your Guns
+Title: 3/60
+Album: The Hope Division
+Track: 9/12
+Date: 2010-06-01
+Genre: Hardcore
+mtime: 1340253060
+song_end
+song_begin: 10 No Cover.mp3
+Time: 202
+Artist: Stick To Your Guns
+Title: No Cover
+Album: The Hope Division
+Track: 10/12
+Date: 2010-06-01
+Genre: Hardcore
+mtime: 1340253056
+song_end
+song_begin: 11 Sufferer.mp3
+Time: 182
+Artist: Stick To Your Guns
+Title: Sufferer
+Album: The Hope Division
+Track: 11/12
+Date: 2010-06-01
+Genre: Hardcore
+mtime: 1340253057
+song_end
+song_begin: 12 La Poderosa.mp3
+Time: 698
+Artist: Stick To Your Guns
+Title: La Poderosa
+Album: The Hope Division
+Track: 12/12
+Date: 2010-06-01
+Genre: Hardcore
+mtime: 1340253059
+song_end
+end: Stick To Your Guns - The Hope Division (2010-mp3)

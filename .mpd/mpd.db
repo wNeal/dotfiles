@@ -1,0 +1,3985 @@
+info_begin
+format: 1
+mpd_version: 0.16.8
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: Attila
+mtime: 1340266131
+begin: Attila
+directory: Fallacy
+mtime: 1340266176
+begin: Attila/Fallacy
+song_begin: 02 No One Will Return.mp3
+Time: 173
+Artist: Attila
+Title: No One Will Return
+Album: Fallacy
+Track: 2/11
+Date: 2007
+Genre: Deathcore / Metalcore
+Disc: 0/0
+mtime: 1340266134
+song_end
+song_begin: 03 Under My Breath.mp3
+Time: 203
+Artist: Attila
+Title: Under My Breath
+Album: Fallacy
+Track: 3/11
+Date: 2007
+Genre: Deathcore / Metalcore
+Disc: 0/0
+mtime: 1340266142
+song_end
+song_begin: 04 Fallacy.mp3
+Time: 333
+Artist: Attila
+Title: Fallacy
+Album: Fallacy
+Track: 4/11
+Date: 2007
+Genre: Deathcore / Metalcore
+Disc: 0/0
+mtime: 1340266154
+song_end
+song_begin: 05 Amelia Bedilia Is A Whore.mp3
+Time: 187
+Artist: Attila
+Title: Amelia Bedilia Is A Whore
+Album: Fallacy
+Track: 5/11
+Date: 2007
+Genre: Deathcore / Metalcore
+Disc: 0/0
+mtime: 1340266138
+song_end
+song_begin: 06 666.mp3
+Time: 52
+Artist: Attila
+Title: 666
+Album: Fallacy
+Track: 6/11
+Date: 2007
+Genre: Deathcore / Metalcore
+Disc: 0/0
+mtime: 1340266148
+song_end
+song_begin: 07 Hanging From A Lamp Post.mp3
+Time: 272
+Artist: Attila
+Title: Hanging From A Lamp Post
+Album: Fallacy
+Track: 7/11
+Date: 2007
+Genre: Deathcore / Metalcore
+Disc: 0/0
+mtime: 1340266131
+song_end
+song_begin: 08 What Would Chuck Norris Do.mp3
+Time: 242
+Artist: Attila
+Title: What Would Chuck Norris Do
+Album: Fallacy
+Track: 8/11
+Date: 2007
+Genre: Deathcore / Metalcore
+Disc: 0/0
+mtime: 1340266162
+song_end
+song_begin: 09 Taking The Lives Of The Ignorant.mp3
+Time: 181
+Artist: Attila
+Title: Taking The Lives Of The Ignorant
+Album: Fallacy
+Track: 9/11
+Date: 2007
+Genre: Deathcore / Metalcore
+Disc: 0/0
+mtime: 1340266146
+song_end
+song_begin: 10 Caddywampus.mp3
+Time: 191
+Artist: Attila
+Title: Caddywampus
+Album: Fallacy
+Track: 10/11
+Date: 2007
+Genre: Deathcore / Metalcore
+Disc: 0/0
+mtime: 1340266158
+song_end
+song_begin: 11 Flying With The Kennedys.mp3
+Time: 564
+Artist: Attila
+Title: Flying With The Kennedys
+Album: Fallacy
+Track: 11/11
+Date: 2007
+Genre: Deathcore / Metalcore
+Disc: 0/0
+mtime: 1340266176
+song_end
+song_begin: 01 Sunsets And Death Threats.mp3
+Time: 223
+Artist: Attila
+Title: Sunsets And Death Threats
+Album: Fallacy
+Track: 1/11
+Date: 2007
+Genre: Deathcore / Metalcore
+Disc: 1/1
+mtime: 1340266166
+song_end
+end: Attila/Fallacy
+directory: Outlawed
+mtime: 1340265464
+begin: Attila/Outlawed
+song_begin: 01 Outlawed.mp3
+Time: 122
+Artist: Attila
+Title: Outlawed
+Album: Outlawed
+Track: 1/10
+Date: 2011
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265457
+song_end
+song_begin: 02 Light Me Up.mp3
+Time: 184
+Artist: Attila
+Title: Light Me Up
+Album: Outlawed
+Track: 2/10
+Date: 2011
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265416
+song_end
+song_begin: 03 Nothing Left To Say.mp3
+Time: 182
+Artist: Attila
+Title: Nothing Left To Say
+Album: Outlawed
+Track: 3/10
+Date: 2011
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265464
+song_end
+song_begin: 04 Another Round.mp3
+Time: 158
+Artist: Attila
+Title: Another Round
+Album: Outlawed
+Track: 4/10
+Date: 2011
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265409
+song_end
+song_begin: 05 Nasty Mouth.mp3
+Time: 209
+Artist: Attila
+Title: Nasty Mouth
+Album: Outlawed
+Track: 5/10
+Date: 2011
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265423
+song_end
+song_begin: 06 Smokeout.mp3
+Time: 161
+Artist: Attila
+Title: Smokeout
+Album: Outlawed
+Track: 6/10
+Date: 2011
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265403
+song_end
+song_begin: 07 Holler At Ya Boy.mp3
+Time: 205
+Artist: Attila
+Title: Holler At Ya Boy
+Album: Outlawed
+Track: 7/10
+Date: 2011
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265431
+song_end
+song_begin: 08 Sex_ Drugs & Violence.mp3
+Time: 170
+Artist: Attila
+Title: Sex, Drugs & Violence
+Album: Outlawed
+Track: 8/10
+Date: 2011
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265444
+song_end
+song_begin: 09 White Lightning.mp3
+Time: 179
+Artist: Attila
+Title: White Lightning
+Album: Outlawed
+Track: 9/10
+Date: 2011
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265438
+song_end
+song_begin: 10 Payback.mp3
+Time: 215
+Artist: Attila
+Title: Payback
+Album: Outlawed
+Track: 10/10
+Date: 2011
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265452
+song_end
+end: Attila/Outlawed
+directory: Rage
+mtime: 1340266081
+begin: Attila/Rage
+song_begin: 01 The End.mp3
+Time: 26
+Artist: Attila
+Title: The End
+Album: Rage
+Track: 1/0
+Date: 2010
+Genre: Deathcore / Metalcore
+Disc: 1/1
+mtime: 1340266062
+song_end
+song_begin: 02 Make It Sick.mp3
+Time: 171
+Artist: Attila
+Title: Make It Sick
+Album: Rage
+Track: 2/0
+Date: 2010
+Genre: Deathcore / Metalcore
+Disc: 1/1
+mtime: 1340266039
+song_end
+song_begin: 03 The Invitation.mp3
+Time: 176
+Artist: Attila
+Title: The Invitation
+Album: Rage
+Track: 3/0
+Date: 2010
+Genre: Deathcore / Metalcore
+Disc: 1/1
+mtime: 1340266070
+song_end
+song_begin: 04 Rage.mp3
+Time: 214
+Artist: Attila
+Title: Rage
+Album: Rage
+Track: 4/0
+Date: 2010
+Genre: Deathcore / Metalcore
+Disc: 1/1
+mtime: 1340266015
+song_end
+song_begin: 05 Lights Out.mp3
+Time: 192
+Artist: Attila
+Title: Lights Out
+Album: Rage
+Track: 5/0
+Date: 2010
+Genre: Deathcore / Metalcore
+Disc: 1/1
+mtime: 1340266082
+song_end
+song_begin: 06 Temper.mp3
+Time: 191
+Artist: Attila
+Title: Temper
+Album: Rage
+Track: 6/0
+Date: 2010
+Genre: Deathcore / Metalcore
+Disc: 1/1
+mtime: 1340266031
+song_end
+song_begin: 07 Girls Don't Lie.mp3
+Time: 172
+Artist: Attila
+Title: Girls Don't Lie
+Album: Rage
+Track: 7/0
+Date: 2010
+Genre: Deathcore / Metalcore
+Disc: 1/1
+mtime: 1340266023
+song_end
+song_begin: 08 Strikeout.mp3
+Time: 67
+Artist: Attila
+Title: Strikeout
+Album: Rage
+Track: 8/0
+Date: 2010
+Genre: Deathcore / Metalcore
+Disc: 1/1
+mtime: 1340266042
+song_end
+song_begin: 09 Cheyenne 420.mp3
+Time: 171
+Artist: Attila
+Title: Cheyenne 420
+Album: Rage
+Track: 9/0
+Date: 2010
+Genre: Deathcore / Metalcore
+Disc: 1/1
+mtime: 1340266050
+song_end
+song_begin: 10 Jumanji.mp3
+Time: 239
+Artist: Attila
+Title: Jumanji
+Album: Rage
+Track: 10/0
+Date: 2010
+Genre: Deathcore / Metalcore
+Disc: 1/1
+mtime: 1340266060
+song_end
+end: Attila/Rage
+directory: Soundtrack to a Party
+mtime: 1340266126
+begin: Attila/Soundtrack to a Party
+song_begin: 01 Lets Start the Party.mp3
+Time: 126
+Artist: Attila
+Title: Lets Start the Party
+Album: Soundtrack to a Party
+Track: 1/0
+Date: 2008
+Genre: Deathcore
+Disc: 0/0
+mtime: 1340266073
+song_end
+song_begin: 02 One Night Stand.mp3
+Time: 200
+Artist: Attila
+Title: One Night Stand
+Album: Soundtrack to a Party
+Track: 2/0
+Date: 2008
+Genre: Deathcore
+Disc: 0/0
+mtime: 1340266101
+song_end
+song_begin: 03 You looked a lot Better Last Night.mp3
+Time: 219
+Artist: Attila
+Title: You looked a lot Better Last Night
+Album: Soundtrack to a Party
+Track: 3/0
+Date: 2008
+Genre: Deathcore
+Disc: 0/0
+mtime: 1340266095
+song_end
+song_begin: 04 Lemme Get a Newport.mp3
+Time: 229
+Artist: Attila
+Title: Lemme Get a Newport
+Album: Soundtrack to a Party
+Track: 4/0
+Date: 2008
+Genre: Deathcore
+Disc: 0/0
+mtime: 1340266112
+song_end
+song_begin: 05 Belligerent.mp3
+Time: 209
+Artist: Attila
+Title: Belligerent
+Album: Soundtrack to a Party
+Track: 5/0
+Date: 2008
+Genre: Deathcore
+Disc: 0/0
+mtime: 1340266121
+song_end
+song_begin: 06 Soda in a Water Cup.mp3
+Time: 253
+Artist: Attila
+Title: Soda in a Water Cup
+Album: Soundtrack to a Party
+Track: 6/0
+Date: 2008
+Genre: Deathcore
+Disc: 0/0
+mtime: 1340266107
+song_end
+song_begin: 07 Deuce-Deuce.mp3
+Time: 190
+Artist: Attila
+Title: Deuce-Deuce
+Album: Soundtrack to a Party
+Track: 7/0
+Date: 2008
+Genre: Deathcore
+Disc: 0/0
+mtime: 1340266085
+song_end
+song_begin: 08 What Would Kimbo Slice Do_.mp3
+Time: 256
+Artist: Attila
+Title: What Would Kimbo Slice Do?
+Album: Soundtrack to a Party
+Track: 8/0
+Date: 2008
+Genre: Deathcore
+Disc: 0/0
+mtime: 1340266126
+song_end
+song_begin: 09 Sunsets and Death Threats.mp3
+Time: 54
+Artist: Attila
+Title: Sunsets and Death Threats
+Album: Soundtrack to a Party
+Track: 9/0
+Date: 2008
+Genre: Deathcore
+Disc: 0/0
+mtime: 1340266102
+song_end
+song_begin: 10 Unbelievable.mp3
+Time: 268
+Artist: Attila
+Title: Unbelievable
+Album: Soundtrack to a Party
+Track: 10/0
+Date: 2008
+Genre: Deathcore
+Disc: 0/0
+mtime: 1340266117
+song_end
+end: Attila/Soundtrack to a Party
+end: Attila
+directory: Circa Survive
+mtime: 1340264257
+begin: Circa Survive
+directory: AOL Sessions_ Under Cover
+mtime: 1340263804
+begin: Circa Survive/AOL Sessions_ Under Cover
+song_begin: 01 In Fear and Faith.mp3
+Time: 233
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: In Fear and Faith
+Album: AOL Sessions: Under Cover
+Track: 1/0
+Date: 2007
+Genre: Rock
+Disc: 0/0
+mtime: 1340263794
+song_end
+song_begin: 02 Kicking Your Crosses Down.mp3
+Time: 231
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Kicking Your Crosses Down
+Album: AOL Sessions: Under Cover
+Track: 2/0
+Date: 2007
+Genre: Rock
+Disc: 0/0
+mtime: 1340263804
+song_end
+song_begin: 03 Wish You Were Here.mp3
+Time: 229
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Wish You Were Here
+Album: AOL Sessions: Under Cover
+Track: 3/0
+Date: 2007
+Genre: Rock
+Disc: 0/0
+mtime: 1340263783
+song_end
+end: Circa Survive/AOL Sessions_ Under Cover
+directory: Blue Sky Noise
+mtime: 1340264005
+begin: Circa Survive/Blue Sky Noise
+song_begin: 01 Strange Terrain.mp3
+Time: 241
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Strange Terrain
+Album: Blue Sky Noise
+Track: 1/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263980
+song_end
+song_begin: 02 Get Out.mp3
+Time: 187
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Get Out
+Album: Blue Sky Noise
+Track: 2/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263960
+song_end
+song_begin: 03 Glass Arrows.mp3
+Time: 254
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Glass Arrows
+Album: Blue Sky Noise
+Track: 3/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263991
+song_end
+song_begin: 04 I Felt Free.mp3
+Time: 239
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: I Felt Free
+Album: Blue Sky Noise
+Track: 4/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263886
+song_end
+song_begin: 05 Imaginary Enemy.mp3
+Time: 267
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Imaginary Enemy
+Album: Blue Sky Noise
+Track: 5/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263951
+song_end
+song_begin: 06 Through The Desert Alone.mp3
+Time: 249
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Through The Desert Alone
+Album: Blue Sky Noise
+Track: 6/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263929
+song_end
+song_begin: 07 Frozen Creek.mp3
+Time: 302
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Frozen Creek
+Album: Blue Sky Noise
+Track: 7/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263855
+song_end
+song_begin: 08 Fever Dreams.mp3
+Time: 277
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Fever Dreams
+Album: Blue Sky Noise
+Track: 8/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263898
+song_end
+song_begin: 09 Spirit Of The Stairwell.mp3
+Time: 333
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Spirit Of The Stairwell
+Album: Blue Sky Noise
+Track: 9/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263875
+song_end
+song_begin: 10 The Longest Mile.mp3
+Time: 247
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: The Longest Mile
+Album: Blue Sky Noise
+Track: 10/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263918
+song_end
+song_begin: 11 Compendium.mp3
+Time: 112
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Compendium
+Album: Blue Sky Noise
+Track: 11/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263861
+song_end
+song_begin: 12 Dyed In The Wool.mp3
+Time: 301
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Dyed In The Wool
+Album: Blue Sky Noise
+Track: 12/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264005
+song_end
+song_begin: 13 I Felt Free  (Safe Camp Sessions Acoustic Version).mp3
+Time: 248
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: I Felt Free  (Safe Camp Sessions Acoustic Version)
+Album: Blue Sky Noise
+Track: 13/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263815
+song_end
+song_begin: 14 Dyed In The Wool  (Safe Camp Sessions Acoustic Version).mp3
+Time: 256
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Dyed In The Wool  (Safe Camp Sessions Acoustic Version)
+Album: Blue Sky Noise
+Track: 14/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263842
+song_end
+song_begin: 15 Get Out  (Safe Camp Sessions Acoustic Version).mp3
+Time: 251
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Get Out  (Safe Camp Sessions Acoustic Version)
+Album: Blue Sky Noise
+Track: 15/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263826
+song_end
+song_begin: 16 Every Way  (Safe Camp Sessions Acoustic Version).mp3
+Time: 221
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Every Way  (Safe Camp Sessions Acoustic Version)
+Album: Blue Sky Noise
+Track: 16/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263969
+song_end
+song_begin: 17 100 Steps ( Demo ).mp3
+Time: 223
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: 100 Steps ( Demo )
+Album: Blue Sky Noise
+Track: 17/0
+Date: 2011
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263908
+song_end
+song_begin: 18 Airplane Dance.mp3
+Time: 233
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Airplane Dance
+Album: Blue Sky Noise
+Track: 18/0
+Date: 2011
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263940
+song_end
+end: Circa Survive/Blue Sky Noise
+directory: Juturna
+mtime: 1340264245
+begin: Circa Survive/Juturna
+song_begin: 01 Holding Someone's Hair Back.mp3
+Time: 202
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Holding Someone's Hair Back
+Album: Juturna
+Track: 1/0
+Date: 2005
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264245
+song_end
+song_begin: 02 Act Appalled.mp3
+Time: 201
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Act Appalled
+Album: Juturna
+Track: 2/0
+Date: 2005
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264132
+song_end
+song_begin: 03 Wish Resign.mp3
+Time: 255
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Wish Resign
+Album: Juturna
+Track: 3/0
+Date: 2005
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264181
+song_end
+song_begin: 04 The Glorious Nosebleed.mp3
+Time: 194
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: The Glorious Nosebleed
+Album: Juturna
+Track: 4/0
+Date: 2005
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264116
+song_end
+song_begin: 05 In Fear and Faith.mp3
+Time: 216
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: In Fear and Faith
+Album: Juturna
+Track: 5/0
+Date: 2005
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264226
+song_end
+song_begin: 06 The Great Golden Baby.mp3
+Time: 251
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: The Great Golden Baby
+Album: Juturna
+Track: 6/0
+Date: 2005
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264216
+song_end
+song_begin: 07 Stop the Car.mp3
+Time: 262
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Stop the Car
+Album: Juturna
+Track: 7/0
+Date: 2005
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264205
+song_end
+song_begin: 08 We're All Thieves.mp3
+Time: 294
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: We're All Thieves
+Album: Juturna
+Track: 8/0
+Date: 2005
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264194
+song_end
+song_begin: 09 Oh_ Hello.mp3
+Time: 157
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Oh, Hello
+Album: Juturna
+Track: 9/0
+Date: 2005
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264123
+song_end
+song_begin: 10 Always Getting What You Want.mp3
+Time: 241
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Always Getting What You Want
+Album: Juturna
+Track: 10/0
+Date: 2005
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264236
+song_end
+song_begin: 11 Meet Me In Montauk.mp3
+Time: 879
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Meet Me In Montauk
+Album: Juturna
+Track: 11/0
+Date: 2005
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264169
+song_end
+end: Circa Survive/Juturna
+directory: None
+mtime: 1340264108
+begin: Circa Survive/None
+song_begin: 01 At A Loss (2009 Demo Ssolata) - Circa Survive (WITH LYRICS).mp3
+Time: 224
+AlbumArtist: Circa Survive
+Title: At A Loss (2009 Demo Ssolata) - Circa Survive (WITH LYRICS)
+Album: None
+Track: 1/0
+Date: 2011
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264086
+song_end
+song_begin: 01 Blank Slate (2009 Demo) - Circa Survive.mp3
+Time: 210
+AlbumArtist: Circa Survive
+Title: Blank Slate (2009 Demo) - Circa Survive
+Album: None
+Track: 1/0
+Date: 2011
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264096
+song_end
+song_begin: 01 Circa Survive - New Sun.mp3
+Time: 250
+AlbumArtist: Circa Survive
+Title: Circa Survive - New Sun
+Album: None
+Track: 1/0
+Date: 2011
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264108
+song_end
+song_begin: 01 Circa Survive - Resentment_.mp3
+Time: 315
+AlbumArtist: Circa Survive
+Title: Circa Survive - Resentment.
+Album: None
+Track: 1/0
+Date: 2011
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264076
+song_end
+end: Circa Survive/None
+directory: On Letting Go
+mtime: 1340263773
+begin: Circa Survive/On Letting Go
+song_begin: 01 Living Together.mp3
+Time: 210
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Living Together
+Album: On Letting Go
+Track: 1/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263773
+song_end
+song_begin: 02 In The Morning And Amazing___.mp3
+Time: 244
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: In The Morning And Amazing...
+Album: On Letting Go
+Track: 2/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263653
+song_end
+song_begin: 03 The Greatest Lie.mp3
+Time: 222
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: The Greatest Lie
+Album: On Letting Go
+Track: 3/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263662
+song_end
+song_begin: 04 The Difference Between Medicine And Poison Is In The Dose.mp3
+Time: 258
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: The Difference Between Medicine And Poison Is In The Dose
+Album: On Letting Go
+Track: 4/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263723
+song_end
+song_begin: 05 Mandala.mp3
+Time: 204
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Mandala
+Album: On Letting Go
+Track: 5/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263764
+song_end
+song_begin: 06 Travel Hymn.mp3
+Time: 193
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Travel Hymn
+Album: On Letting Go
+Track: 6/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263695
+song_end
+song_begin: 07 Semi Constructive Criticism.mp3
+Time: 202
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Semi Constructive Criticism
+Album: On Letting Go
+Track: 7/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263642
+song_end
+song_begin: 08 Kicking Your Crosses Down.mp3
+Time: 218
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Kicking Your Crosses Down
+Album: On Letting Go
+Track: 8/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263686
+song_end
+song_begin: 09 On Letting Go.mp3
+Time: 244
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: On Letting Go
+Album: On Letting Go
+Track: 9/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263734
+song_end
+song_begin: 10 Carry Us Away.mp3
+Time: 200
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Carry Us Away
+Album: On Letting Go
+Track: 10/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263712
+song_end
+song_begin: 11 Close Your Eyes To See.mp3
+Time: 214
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Close Your Eyes To See
+Album: On Letting Go
+Track: 11/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263754
+song_end
+song_begin: 12 Your Friends Are Gone.mp3
+Time: 327
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Your Friends Are Gone
+Album: On Letting Go
+Track: 12/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263677
+song_end
+song_begin: 13 1_000 Witnesses (A single B-side)(Bonus).mp3
+Time: 174
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: 1,000 Witnesses (A single B-side)(Bonus)
+Album: On Letting Go
+Track: 13/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263703
+song_end
+song_begin: 14 The Most Dangerous Commercials.mp3
+Time: 233
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: The Most Dangerous Commercials
+Album: On Letting Go
+Track: 14/0
+Date: 2007
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340263744
+song_end
+end: Circa Survive/On Letting Go
+directory: The Inuit Sessions EP
+mtime: 1340264284
+begin: Circa Survive/The Inuit Sessions EP
+song_begin: 01 Act Appalled.mp3
+Time: 203
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Act Appalled
+Album: The Inuit Sessions EP
+Track: 1/0
+Date: 2005
+Genre: Rock
+Disc: 0/0
+mtime: 1340264284
+song_end
+song_begin: 02 The Great Golden Baby.mp3
+Time: 253
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: The Great Golden Baby
+Album: The Inuit Sessions EP
+Track: 2/0
+Date: 2005
+Genre: Rock
+Disc: 0/0
+mtime: 1340264257
+song_end
+song_begin: 03 Suspending Disbelief.mp3
+Time: 232
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Suspending Disbelief
+Album: The Inuit Sessions EP
+Track: 3/0
+Date: 2005
+Genre: Rock
+Disc: 0/0
+mtime: 1340264267
+song_end
+song_begin: 04 Handshakes At Sunrise (Demo).mp3
+Time: 174
+Artist: Circa Survive
+AlbumArtist: Circa Survive
+Title: Handshakes At Sunrise (Demo)
+Album: The Inuit Sessions EP
+Track: 4/0
+Date: 2005
+Genre: Rock
+Disc: 0/0
+mtime: 1340264275
+song_end
+end: Circa Survive/The Inuit Sessions EP
+end: Circa Survive
+directory: Circa Suvive
+mtime: 1340264016
+begin: Circa Suvive
+directory: Appendage
+mtime: 1340264063
+begin: Circa Suvive/Appendage
+song_begin: 01 Sleep Underground.mp3
+Time: 146
+Artist: Circa Survive
+AlbumArtist: Circa Suvive
+Title: Sleep Underground
+Album: Appendage
+Track: 1/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264023
+song_end
+song_begin: 02 Stare Like Youll Stay.mp3
+Time: 278
+Artist: Circa Survive
+AlbumArtist: Circa Suvive
+Title: Stare Like Youll Stay
+Album: Appendage
+Track: 2/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264063
+song_end
+song_begin: 03 Everyway.mp3
+Time: 258
+Artist: Circa Survive
+AlbumArtist: Circa Suvive
+Title: Everyway
+Album: Appendage
+Track: 3/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264016
+song_end
+song_begin: 04 Backmask.mp3
+Time: 332
+Artist: Circa Survive
+AlbumArtist: Circa Suvive
+Title: Backmask
+Album: Appendage
+Track: 4/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264037
+song_end
+song_begin: 05 Lazarus.mp3
+Time: 290
+Artist: Circa Survive
+AlbumArtist: Circa Suvive
+Title: Lazarus
+Album: Appendage
+Track: 5/0
+Date: 2010
+Genre: Alternative & Punk
+Disc: 0/0
+mtime: 1340264050
+song_end
+end: Circa Suvive/Appendage
+end: Circa Suvive
+directory: Dr_ Acula
+mtime: 1340265928
+begin: Dr_ Acula
+directory: Nation
+mtime: 1340266006
+begin: Dr_ Acula/Nation
+song_begin: 01 Be Careful What You Wish For___.mp3
+Time: 47
+Artist: Dr. Acula
+Title: Be Careful What You Wish For...
+Album: Nation
+Track: 1/0
+Date: 2012
+Genre: Metalcore / Deathcore
+Disc: 0/0
+mtime: 1340265971
+song_end
+song_begin: 02 Heavy Handed.mp3
+Time: 125
+Artist: Dr. Acula
+Title: Heavy Handed
+Album: Nation
+Track: 2/0
+Date: 2012
+Genre: Metalcore / Deathcore
+Disc: 0/0
+mtime: 1340265977
+song_end
+song_begin: 03 Keep On Running In Place.mp3
+Time: 176
+Artist: Dr. Acula
+Title: Keep On Running In Place
+Album: Nation
+Track: 3/0
+Date: 2012
+Genre: Metalcore / Deathcore
+Disc: 0/0
+mtime: 1340265969
+song_end
+song_begin: 04 The Party Is Over (Locked On Target).mp3
+Time: 143
+Artist: Dr. Acula
+Title: The Party Is Over (Locked On Target)
+Album: Nation
+Track: 4/0
+Date: 2012
+Genre: Metalcore / Deathcore
+Disc: 0/0
+mtime: 1340265991
+song_end
+song_begin: 05 Ironic Enclosure.mp3
+Time: 202
+Artist: Dr. Acula
+Title: Ironic Enclosure
+Album: Nation
+Track: 5/0
+Date: 2012
+Genre: Metalcore / Deathcore
+Disc: 0/0
+mtime: 1340265928
+song_end
+song_begin: 06 Dressed for Transylvania In the Boiling Weather (Lipstick Guys).mp3
+Time: 198
+Artist: Dr. Acula
+Title: Dressed for Transylvania In the Boiling Weather (Lipstick Guys)
+Album: Nation
+Track: 6/0
+Date: 2012
+Genre: Metalcore / Deathcore
+Disc: 0/0
+mtime: 1340266006
+song_end
+song_begin: 07 Nation.mp3
+Time: 176
+Artist: Dr. Acula
+Title: Nation
+Album: Nation
+Track: 7/0
+Date: 2012
+Genre: Metalcore / Deathcore
+Disc: 0/0
+mtime: 1340265936
+song_end
+song_begin: 08 Robot People From Hell.mp3
+Time: 117
+Artist: Dr. Acula
+Title: Robot People From Hell
+Album: Nation
+Track: 8/0
+Date: 2012
+Genre: Metalcore / Deathcore
+Disc: 0/0
+mtime: 1340265997
+song_end
+song_begin: 09 Suburban Superstar (Strung Out On Strong Island).mp3
+Time: 167
+Artist: Dr. Acula
+Title: Suburban Superstar (Strung Out On Strong Island)
+Album: Nation
+Track: 9/0
+Date: 2012
+Genre: Metalcore / Deathcore
+Disc: 0/0
+mtime: 1340265985
+song_end
+song_begin: 10 Areola 51.mp3
+Time: 209
+Artist: Dr. Acula
+Title: Areola 51
+Album: Nation
+Track: 10/0
+Date: 2012
+Genre: Metalcore / Deathcore
+Disc: 0/0
+mtime: 1340265954
+song_end
+song_begin: 11 Citizen's Arrest.mp3
+Time: 144
+Artist: Dr. Acula
+Title: Citizen's Arrest
+Album: Nation
+Track: 11/0
+Date: 2012
+Genre: Metalcore / Deathcore
+Disc: 0/0
+mtime: 1340265961
+song_end
+song_begin: 12 Thinner.mp3
+Time: 189
+Artist: Dr. Acula
+Title: Thinner
+Album: Nation
+Track: 12/0
+Date: 2012
+Genre: Metalcore / Deathcore
+Disc: 0/0
+mtime: 1340265945
+song_end
+end: Dr_ Acula/Nation
+directory: Slander
+mtime: 1340265845
+begin: Dr_ Acula/Slander
+song_begin: 01 Clinger (Stage 5).mp3
+Time: 46
+Artist: Dr. Acula
+Title: Clinger (Stage 5)
+Album: Slander
+Track: 1/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265734
+song_end
+song_begin: 02 Fire Crotch (The Venereal Van Ride).mp3
+Time: 160
+Artist: Dr. Acula
+Title: Fire Crotch (The Venereal Van Ride)
+Album: Slander
+Track: 2/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265810
+song_end
+song_begin: 03 Welcome To Camp Nightmare.mp3
+Time: 232
+Artist: Dr. Acula
+Title: Welcome To Camp Nightmare
+Album: Slander
+Track: 3/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265752
+song_end
+song_begin: 04 Currently Sexting.mp3
+Time: 164
+Artist: Dr. Acula
+Title: Currently Sexting
+Album: Slander
+Track: 4/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265845
+song_end
+song_begin: 05 Cocaine Avalanche.mp3
+Time: 197
+Artist: Dr. Acula
+Title: Cocaine Avalanche
+Album: Slander
+Track: 5/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265786
+song_end
+song_begin: 06 Song Before The Song.mp3
+Time: 226
+Artist: Dr. Acula
+Title: Song Before The Song
+Album: Slander
+Track: 6/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265763
+song_end
+song_begin: 07 Pure And Immature (Goon).mp3
+Time: 175
+Artist: Dr. Acula
+Title: Pure And Immature (Goon)
+Album: Slander
+Track: 7/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265802
+song_end
+song_begin: 08 Who You Gonna Call_.mp3
+Time: 222
+Artist: Dr. Acula
+Title: Who You Gonna Call?
+Album: Slander
+Track: 8/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265820
+song_end
+song_begin: 09 All Work No Play.mp3
+Time: 179
+Artist: Dr. Acula
+Title: All Work No Play
+Album: Slander
+Track: 9/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265742
+song_end
+song_begin: 10 Slander.mp3
+Time: 229
+Artist: Dr. Acula
+Title: Slander
+Album: Slander
+Track: 10/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265830
+song_end
+song_begin: 11 Slampig (___And Then The Bitch).mp3
+Time: 167
+Artist: Dr. Acula
+Title: Slampig (...And Then The Bitch)
+Album: Slander
+Track: 11/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265777
+song_end
+song_begin: 12 Party 2_0.mp3
+Time: 125
+Artist: Dr. Acula
+Title: Party 2.0
+Album: Slander
+Track: 12/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265769
+song_end
+song_begin: 13 The Big Sleep.mp3
+Time: 168
+Artist: Dr. Acula
+Title: The Big Sleep
+Album: Slander
+Track: 13/13
+Date: 2011
+Disc: 1/1
+mtime: 1340265794
+song_end
+end: Dr_ Acula/Slander
+directory: The Social Event of The Century
+mtime: 1340265634
+begin: Dr_ Acula/The Social Event of The Century
+song_begin: 01 01 (Welcome To) The Social Event Of The Century_mp3.mp3
+Time: 151
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Title: 01 (Welcome To) The Social Event Of The Century.mp3
+Album: The Social Event of The Century
+Track: 1/0
+Genre: Other
+Disc: 0/0
+mtime: 1340265596
+song_end
+song_begin: 02 02 Theres No Glory in Fame_mp3.mp3
+Time: 147
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Title: 02 Theres No Glory in Fame.mp3
+Album: The Social Event of The Century
+Track: 2/0
+Genre: Other
+Disc: 0/0
+mtime: 1340265634
+song_end
+song_begin: 03 03 The MusicVideo Game Olympics_mp3.mp3
+Time: 121
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Title: 03 The MusicVideo Game Olympics.mp3
+Album: The Social Event of The Century
+Track: 3/0
+Genre: Other
+Disc: 0/0
+mtime: 1340265606
+song_end
+song_begin: 04 04 New York California & Nowhere In Between_mp3.mp3
+Time: 132
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Title: 04 New York California & Nowhere In Between.mp3
+Album: The Social Event of The Century
+Track: 4/0
+Genre: Other
+Disc: 0/0
+mtime: 1340265630
+song_end
+song_begin: 05 05 Wendel_mp3.mp3
+Time: 126
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Title: 05 Wendel.mp3
+Album: The Social Event of The Century
+Track: 5/0
+Genre: Other
+Disc: 0/0
+mtime: 1340265585
+song_end
+song_begin: 06 06 The L Train To High Street_mp3.mp3
+Time: 260
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Title: 06 The L Train To High Street.mp3
+Album: The Social Event of The Century
+Track: 6/0
+Genre: Other
+Disc: 0/0
+mtime: 1340265621
+song_end
+song_begin: 07 07 Cockoff!_mp3.mp3
+Time: 156
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Title: 07 Cockoff!.mp3
+Album: The Social Event of The Century
+Track: 7/0
+Genre: Other
+Disc: 0/0
+mtime: 1340265614
+song_end
+song_begin: 08 08 The Rise And Fall of T_H_C_ Tennis_mp3.mp3
+Time: 138
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Title: 08 The Rise And Fall of T.H.C. Tennis.mp3
+Album: The Social Event of The Century
+Track: 8/0
+Genre: Other
+Disc: 0/0
+mtime: 1340265610
+song_end
+song_begin: 09 09 Is This A Party Or A Dick Measuring Contest_mp3.mp3
+Time: 112
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Title: 09 Is This A Party Or A Dick Measuring Contest.mp3
+Album: The Social Event of The Century
+Track: 9/0
+Genre: Other
+Disc: 0/0
+mtime: 1340265626
+song_end
+song_begin: 10 10 Showstopper!_mp3.mp3
+Time: 203
+Artist: Dr. Acula
+AlbumArtist: Dr. Acula
+Title: 10 Showstopper!.mp3
+Album: The Social Event of The Century
+Track: 10/0
+Genre: Other
+Disc: 0/0
+mtime: 1340265602
+song_end
+end: Dr_ Acula/The Social Event of The Century
+end: Dr_ Acula
+directory: Enter Shikari
+mtime: 1340265471
+begin: Enter Shikari
+directory: A Flash Flood of Colour
+mtime: 1340265592
+begin: Enter Shikari/A Flash Flood of Colour
+song_begin: 01 System.mp3
+Time: 118
+Artist: Enter Shikari
+Title: System
+Album: A Flash Flood of Colour
+Track: 1/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265484
+song_end
+song_begin: 02 Meltdown.mp3
+Time: 204
+Artist: Enter Shikari
+Title: Meltdown
+Album: A Flash Flood of Colour
+Track: 2/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265537
+song_end
+song_begin: 03 Sssnakepit.mp3
+Time: 206
+Artist: Enter Shikari
+Title: Sssnakepit
+Album: A Flash Flood of Colour
+Track: 3/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265592
+song_end
+song_begin: 03 Stalemate.mp3
+Time: 258
+Artist: Enter Shikari
+Title: Stalemate
+Album: A Flash Flood of Colour
+Track: 3/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265492
+song_end
+song_begin: 04 Search Party.mp3
+Time: 246
+Artist: Enter Shikari
+Title: Search Party
+Album: A Flash Flood of Colour
+Track: 4/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265572
+song_end
+song_begin: 05 Arguing With Thermometers.mp3
+Time: 204
+Artist: Enter Shikari
+Title: Arguing With Thermometers
+Album: A Flash Flood of Colour
+Track: 5/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265471
+song_end
+song_begin: 07 Gandhi Mate_ Gandhi.mp3
+Time: 267
+Artist: Enter Shikari
+Title: Gandhi Mate, Gandhi
+Album: A Flash Flood of Colour
+Track: 7/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265529
+song_end
+song_begin: 08 Warm Smiles Do Not Make You Welcome Here.mp3
+Time: 278
+Artist: Enter Shikari
+Title: Warm Smiles Do Not Make You Welcome Here
+Album: A Flash Flood of Colour
+Track: 8/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265564
+song_end
+song_begin: 09 Pack Of Thieves.mp3
+Time: 238
+Artist: Enter Shikari
+Title: Pack Of Thieves
+Album: A Flash Flood of Colour
+Track: 9/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265500
+song_end
+song_begin: 10 Hello Tyrannosaurus_ Meet Tyrannicide.mp3
+Time: 227
+Artist: Enter Shikari
+Title: Hello Tyrannosaurus, Meet Tyrannicide
+Album: A Flash Flood of Colour
+Track: 10/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265555
+song_end
+song_begin: 11 Constellations.mp3
+Time: 301
+Artist: Enter Shikari
+Title: Constellations
+Album: A Flash Flood of Colour
+Track: 11/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265581
+song_end
+song_begin: 12 Sssnakepit (Hamilton Remix).mp3
+Time: 292
+Artist: Enter Shikari
+Title: Sssnakepit (Hamilton Remix)
+Album: A Flash Flood of Colour
+Track: 12/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265547
+song_end
+song_begin: 13 Sssnakepit (Serial Killaz Remi.mp3
+Time: 330
+Artist: Enter Shikari
+Title: Sssnakepit (Serial Killaz Remi
+Album: A Flash Flood of Colour
+Track: 13/0
+Disc: 0/0
+mtime: 1340265520
+song_end
+song_begin: 14 Quelle Surprise.mp3
+Time: 275
+Artist: Enter Shikari
+Title: Quelle Surprise
+Album: A Flash Flood of Colour
+Track: 14/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265480
+song_end
+song_begin: 15 Destabilise.mp3
+Time: 272
+Artist: Enter Shikari
+Title: Destabilise
+Album: A Flash Flood of Colour
+Track: 15/0
+Date: 2012
+Disc: 0/0
+mtime: 1340265509
+song_end
+end: Enter Shikari/A Flash Flood of Colour
+end: Enter Shikari
+directory: Greeley Estates
+mtime: 1340265274
+begin: Greeley Estates
+directory: The Death of Greeley Estates
+mtime: 1340265397
+begin: Greeley Estates/The Death of Greeley Estates
+song_begin: 01 Straitjacket.mp3
+Time: 215
+Artist: Greeley Estates
+Title: Straitjacket
+Album: The Death of Greeley Estates
+Track: 1/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265313
+song_end
+song_begin: 02 The Last Dance.mp3
+Time: 194
+Artist: Greeley Estates
+Title: The Last Dance
+Album: The Death of Greeley Estates
+Track: 2/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265294
+song_end
+song_begin: 03 Friendly Neighborhood Visit.mp3
+Time: 165
+Artist: Greeley Estates
+Title: Friendly Neighborhood Visit
+Album: The Death of Greeley Estates
+Track: 3/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265363
+song_end
+song_begin: 04 Bodies.mp3
+Time: 218
+Artist: Greeley Estates
+Title: Bodies
+Album: The Death of Greeley Estates
+Track: 4/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265355
+song_end
+song_begin: 05 The Medic.mp3
+Time: 215
+Artist: Greeley Estates
+Title: The Medic
+Album: The Death of Greeley Estates
+Track: 5/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265304
+song_end
+song_begin: 06 A Thousand Burning Forests.mp3
+Time: 270
+Artist: Greeley Estates
+Title: A Thousand Burning Forests
+Album: The Death of Greeley Estates
+Track: 6/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265286
+song_end
+song_begin: 07 Broken (Interlude).mp3
+Time: 52
+Artist: Greeley Estates
+Title: Broken (Interlude)
+Album: The Death of Greeley Estates
+Track: 7/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265317
+song_end
+song_begin: 08 Leave The Light On.mp3
+Time: 208
+Artist: Greeley Estates
+Title: Leave The Light On
+Album: The Death of Greeley Estates
+Track: 8/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265336
+song_end
+song_begin: 09 Circle The Wagons.mp3
+Time: 227
+Artist: Greeley Estates
+Title: Circle The Wagons
+Album: The Death of Greeley Estates
+Track: 9/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265397
+song_end
+song_begin: 10 The Reaction.mp3
+Time: 174
+Artist: Greeley Estates
+Title: The Reaction
+Album: The Death of Greeley Estates
+Track: 10/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265387
+song_end
+song_begin: 11 Tonight.mp3
+Time: 201
+Artist: Greeley Estates
+Title: Tonight
+Album: The Death of Greeley Estates
+Track: 11/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265345
+song_end
+song_begin: 12 The Postman.mp3
+Time: 286
+Artist: Greeley Estates
+Title: The Postman
+Album: The Death of Greeley Estates
+Track: 12/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265378
+song_end
+song_begin: 13 Mouth To Mouth.mp3
+Time: 199
+Artist: Greeley Estates
+Title: Mouth To Mouth
+Album: The Death of Greeley Estates
+Track: 13/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265327
+song_end
+song_begin: 14 Repaired (Interlude).mp3
+Time: 65
+Artist: Greeley Estates
+Title: Repaired (Interlude)
+Album: The Death of Greeley Estates
+Track: 14/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265366
+song_end
+song_begin: 15 December.mp3
+Time: 271
+Artist: Greeley Estates
+Title: December
+Album: The Death of Greeley Estates
+Track: 15/0
+Date: 2011
+Genre: Post-Hardcore
+Disc: 0/0
+mtime: 1340265274
+song_end
+end: Greeley Estates/The Death of Greeley Estates
+end: Greeley Estates
+directory: Protest The Hero
+mtime: 1340263526
+begin: Protest The Hero
+directory: Scurrilous
+mtime: 1340263633
+begin: Protest The Hero/Scurrilous
+song_begin: 00 C'est la Vie.mp3
+Time: 213
+Artist: Protest The Hero
+AlbumArtist: Protest The Hero
+Title: C'est la Vie
+Album: Scurrilous
+Track: 0/0
+Disc: 0/0
+mtime: 1340263526
+song_end
+song_begin: 00 Dunsel.mp3
+Time: 294
+Artist: Protest The Hero
+AlbumArtist: Protest The Hero
+Title: Dunsel
+Album: Scurrilous
+Track: 0/0
+Disc: 0/0
+mtime: 1340263589
+song_end
+song_begin: 00 Hair-Trigger.mp3
+Time: 290
+Artist: Protest The Hero
+AlbumArtist: Protest The Hero
+Title: Hair-Trigger
+Album: Scurrilous
+Track: 0/0
+Disc: 0/0
+mtime: 1340263539
+song_end
+song_begin: 00 Moonlight.mp3
+Time: 290
+Artist: Protest The Hero
+AlbumArtist: Protest The Hero
+Title: Moonlight
+Album: Scurrilous
+Track: 0/0
+Disc: 0/0
+mtime: 1340263565
+song_end
+song_begin: 00 Sex Tapes.mp3
+Time: 279
+Artist: Protest The Hero
+AlbumArtist: Protest The Hero
+Title: Sex Tapes
+Album: Scurrilous
+Track: 0/0
+Disc: 0/0
+mtime: 1340263633
+song_end
+song_begin: 00 Tandem.mp3
+Time: 316
+Artist: Protest The Hero
+AlbumArtist: Protest The Hero
+Title: Tandem
+Album: Scurrilous
+Track: 0/0
+Disc: 0/0
+mtime: 1340263552
+song_end
+song_begin: 00 Tapestry.mp3
+Time: 275
+Artist: Protest The Hero
+AlbumArtist: Protest The Hero
+Title: Tapestry
+Album: Scurrilous
+Track: 0/0
+Disc: 0/0
+mtime: 1340263577
+song_end
+song_begin: 00 Termites.mp3
+Time: 238
+Artist: Protest The Hero
+AlbumArtist: Protest The Hero
+Title: Termites
+Album: Scurrilous
+Track: 0/0
+Disc: 0/0
+mtime: 1340263609
+song_end
+song_begin: 00 The Reign Of Unending Terror.mp3
+Time: 204
+Artist: Protest The Hero
+AlbumArtist: Protest The Hero
+Title: The Reign Of Unending Terror
+Album: Scurrilous
+Track: 0/0
+Disc: 0/0
+mtime: 1340263598
+song_end
+song_begin: 00 Tongue-splitter.mp3
+Time: 274
+Artist: Protest The Hero
+AlbumArtist: Protest The Hero
+Title: Tongue-splitter
+Album: Scurrilous
+Track: 0/0
+Disc: 0/0
+mtime: 1340263621
+song_end
+end: Protest The Hero/Scurrilous
+end: Protest The Hero
+directory: Stick To Your Guns
+mtime: 1340265838
+begin: Stick To Your Guns
+directory: Diamond
+mtime: 1340265731
+begin: Stick To Your Guns/Diamond
+song_begin: 01 Diamond.mp3
+Time: 145
+Artist: Stick To Your Guns
+Title: Diamond
+Album: Diamond
+Track: 1/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265659
+song_end
+song_begin: 02 Against Them All.mp3
+Time: 198
+Artist: Stick To Your Guns
+Title: Against Them All
+Album: Diamond
+Track: 2/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265690
+song_end
+song_begin: 03 Such Pain.mp3
+Time: 158
+Artist: Stick To Your Guns
+Title: Such Pain
+Album: Diamond
+Track: 3/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265700
+song_end
+song_begin: 04 The Bond.mp3
+Time: 157
+Artist: Stick To Your Guns
+Title: The Bond
+Album: Diamond
+Track: 4/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265731
+song_end
+song_begin: 05 We Still Believe.mp3
+Time: 214
+Artist: Stick To Your Guns
+Title: We Still Believe
+Album: Diamond
+Track: 5/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265708
+song_end
+song_begin: 06 Ring Loud (Last Hope).mp3
+Time: 179
+Artist: Stick To Your Guns
+Title: Ring Loud (Last Hope)
+Album: Diamond
+Track: 6/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265674
+song_end
+song_begin: 07 Empty Heads.mp3
+Time: 175
+Artist: Stick To Your Guns
+Title: Empty Heads
+Album: Diamond
+Track: 7/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265667
+song_end
+song_begin: 08 Beyond The Sun.mp3
+Time: 257
+Artist: Stick To Your Guns
+Title: Beyond The Sun
+Album: Diamond
+Track: 8/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265718
+song_end
+song_begin: 09 Life In A Box.mp3
+Time: 89
+Artist: Stick To Your Guns
+Title: Life In A Box
+Album: Diamond
+Track: 9/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265638
+song_end
+song_begin: 10 Bringing You Down.mp3
+Time: 232
+Artist: Stick To Your Guns
+Title: Bringing You Down
+Album: Diamond
+Track: 10/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265647
+song_end
+song_begin: 11 D(i am)ond.mp3
+Time: 105
+Artist: Stick To Your Guns
+Title: D(i am)ond
+Album: Diamond
+Track: 11/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265694
+song_end
+song_begin: 12 Built Upon The Sand.mp3
+Time: 164
+Artist: Stick To Your Guns
+Title: Built Upon The Sand
+Album: Diamond
+Track: 12/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265724
+song_end
+song_begin: 13 Just Like Me.mp3
+Time: 183
+Artist: Stick To Your Guns
+Title: Just Like Me
+Album: Diamond
+Track: 13/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265681
+song_end
+song_begin: 14 We Still Believe (Acoustic).mp3
+Time: 235
+Artist: Stick To Your Guns
+Title: We Still Believe (Acoustic)
+Album: Diamond
+Track: 14/14
+Date: 2012
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265654
+song_end
+end: Stick To Your Guns/Diamond
+directory: The Hope Division
+mtime: 1340265919
+begin: Stick To Your Guns/The Hope Division
+song_begin: 01 Where The Sun Never Sleeps.mp3
+Time: 204
+Artist: Stick To Your Guns
+Title: Where The Sun Never Sleeps
+Album: The Hope Division
+Track: 1/12
+Date: 2010
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265838
+song_end
+song_begin: 02 What Goes Around.mp3
+Time: 98
+Artist: Stick To Your Guns
+Title: What Goes Around
+Album: The Hope Division
+Track: 2/12
+Date: 2010
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265897
+song_end
+song_begin: 03 Faith In The Untamed.mp3
+Time: 221
+Artist: Stick To Your Guns
+Title: Faith In The Untamed
+Album: The Hope Division
+Track: 3/12
+Date: 2010
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265878
+song_end
+song_begin: 04 Amber.mp3
+Time: 215
+Artist: Stick To Your Guns
+Title: Amber
+Album: The Hope Division
+Track: 4/12
+Date: 2010
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265885
+song_end
+song_begin: 05 Wolves At The Door.mp3
+Time: 200
+Artist: Stick To Your Guns
+Title: Wolves At The Door
+Album: The Hope Division
+Track: 5/12
+Date: 2010
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265871
+song_end
+song_begin: 06 Some Kind Of Hope.mp3
+Time: 257
+Artist: Stick To Your Guns
+Title: Some Kind Of Hope
+Album: The Hope Division
+Track: 6/12
+Date: 2010
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265893
+song_end
+song_begin: 07 Scarecrow.mp3
+Time: 196
+Artist: Stick To Your Guns
+Title: Scarecrow
+Album: The Hope Division
+Track: 7/12
+Date: 2010
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265903
+song_end
+song_begin: 08 Life Through Western Eyes.mp3
+Time: 106
+Artist: Stick To Your Guns
+Title: Life Through Western Eyes
+Album: The Hope Division
+Track: 8/12
+Date: 2010
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265919
+song_end
+song_begin: 09 3_60.mp3
+Time: 167
+Artist: Stick To Your Guns
+Title: 3/60
+Album: The Hope Division
+Track: 9/12
+Date: 2010
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265858
+song_end
+song_begin: 10 No Cover.mp3
+Time: 202
+Artist: Stick To Your Guns
+Title: No Cover
+Album: The Hope Division
+Track: 10/12
+Date: 2010
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265852
+song_end
+song_begin: 11 Sufferer.mp3
+Time: 182
+Artist: Stick To Your Guns
+Title: Sufferer
+Album: The Hope Division
+Track: 11/12
+Date: 2010
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265864
+song_end
+song_begin: 12 La Poderosa.mp3
+Time: 698
+Artist: Stick To Your Guns
+Title: La Poderosa
+Album: The Hope Division
+Track: 12/12
+Date: 2010
+Genre: Hardcore
+Disc: 0/0
+mtime: 1340265916
+song_end
+end: Stick To Your Guns/The Hope Division
+end: Stick To Your Guns
+directory: The Adolescents
+mtime: 1340265077
+begin: The Adolescents
+directory: _1981_ The Adolescents
+mtime: 1340264974
+begin: The Adolescents/_1981_ The Adolescents
+song_begin: 01 I Hate Children.mp3
+Time: 105
+Artist: The Adolescents
+Title: I Hate Children
+Album: [1981] The Adolescents
+Track: 1/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264974
+song_end
+song_begin: 02 Who Is Who_.mp3
+Time: 84
+Artist: The Adolescents
+Title: Who Is Who?
+Album: [1981] The Adolescents
+Track: 2/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264915
+song_end
+song_begin: 03 Wrecking Crew.mp3
+Time: 128
+Artist: The Adolescents
+Title: Wrecking Crew
+Album: [1981] The Adolescents
+Track: 3/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264935
+song_end
+song_begin: 04 L_A_ Girl.mp3
+Time: 109
+Artist: The Adolescents
+Title: L.A. Girl
+Album: [1981] The Adolescents
+Track: 4/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264881
+song_end
+song_begin: 05 Self Destruct.mp3
+Time: 48
+Artist: The Adolescents
+Title: Self Destruct
+Album: [1981] The Adolescents
+Track: 5/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264937
+song_end
+song_begin: 06 Kids of the Black Hole.mp3
+Time: 327
+Artist: The Adolescents
+Title: Kids of the Black Hole
+Album: [1981] The Adolescents
+Track: 6/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264929
+song_end
+song_begin: 07 No Way.mp3
+Time: 123
+Artist: The Adolescents
+Title: No Way
+Album: [1981] The Adolescents
+Track: 7/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264948
+song_end
+song_begin: 08 Amoeba.mp3
+Time: 186
+Artist: The Adolescents
+Title: Amoeba
+Album: [1981] The Adolescents
+Track: 8/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264969
+song_end
+song_begin: 09 Word Attack.mp3
+Time: 68
+Artist: The Adolescents
+Title: Word Attack
+Album: [1981] The Adolescents
+Track: 9/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264905
+song_end
+song_begin: 10 Rip It Up.mp3
+Time: 131
+Artist: The Adolescents
+Title: Rip It Up
+Album: [1981] The Adolescents
+Track: 10/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264954
+song_end
+song_begin: 11 Democracy.mp3
+Time: 128
+Artist: The Adolescents
+Title: Democracy
+Album: [1981] The Adolescents
+Track: 11/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264902
+song_end
+song_begin: 12 No Friends.mp3
+Time: 152
+Artist: The Adolescents
+Title: No Friends
+Album: [1981] The Adolescents
+Track: 12/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264896
+song_end
+song_begin: 13 Creatures.mp3
+Time: 118
+Artist: The Adolescents
+Title: Creatures
+Album: [1981] The Adolescents
+Track: 13/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264943
+song_end
+song_begin: 14 Welcome to Reality.mp3
+Time: 131
+Artist: The Adolescents
+Title: Welcome to Reality
+Album: [1981] The Adolescents
+Track: 14/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264960
+song_end
+song_begin: 15 Losing Battle.mp3
+Time: 95
+Artist: The Adolescents
+Title: Losing Battle
+Album: [1981] The Adolescents
+Track: 15/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264910
+song_end
+song_begin: 16 Things Start Moving.mp3
+Time: 186
+Artist: The Adolescents
+Title: Things Start Moving
+Album: [1981] The Adolescents
+Track: 16/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264889
+song_end
+end: The Adolescents/_1981_ The Adolescents
+directory: _1981_ Welcome to Reality
+mtime: 1340264421
+begin: The Adolescents/_1981_ Welcome to Reality
+song_begin: 01 Welcome to Reality.mp3
+Time: 131
+Artist: The Adolescents
+Title: Welcome to Reality
+Album: [1981] Welcome to Reality
+Track: 1/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264416
+song_end
+song_begin: 02 Losing Battle.mp3
+Time: 94
+Artist: The Adolescents
+Title: Losing Battle
+Album: [1981] Welcome to Reality
+Track: 2/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264397
+song_end
+song_begin: 03 Things Start Moving.mp3
+Time: 186
+Artist: The Adolescents
+Title: Things Start Moving
+Album: [1981] Welcome to Reality
+Track: 3/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264421
+song_end
+end: The Adolescents/_1981_ Welcome to Reality
+directory: _1987_ Brats In Battalions
+mtime: 1340265072
+begin: The Adolescents/_1987_ Brats In Battalions
+song_begin: 01 Brats In Battalions.mp3
+Time: 153
+Artist: The Adolescents
+Title: Brats In Battalions
+Album: [1987] Brats In Battalions
+Track: 1/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265064
+song_end
+song_begin: 02 I Love You.mp3
+Time: 254
+Artist: The Adolescents
+Title: I Love You
+Album: [1987] Brats In Battalions
+Track: 2/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264995
+song_end
+song_begin: 03 The Liar.mp3
+Time: 119
+Artist: The Adolescents
+Title: The Liar
+Album: [1987] Brats In Battalions
+Track: 3/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265049
+song_end
+song_begin: 04 Things Start Moving.mp3
+Time: 192
+Artist: The Adolescents
+Title: Things Start Moving
+Album: [1987] Brats In Battalions
+Track: 4/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265072
+song_end
+song_begin: 05 Do The Freddy.mp3
+Time: 57
+Artist: The Adolescents
+Title: Do The Freddy
+Album: [1987] Brats In Battalions
+Track: 5/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264984
+song_end
+song_begin: 06 Losing Battle.mp3
+Time: 96
+Artist: The Adolescents
+Title: Losing Battle
+Album: [1987] Brats In Battalions
+Track: 6/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264999
+song_end
+song_begin: 07 House Of The Rising Sun.mp3
+Time: 249
+Artist: The Adolescents
+Title: House Of The Rising Sun
+Album: [1987] Brats In Battalions
+Track: 7/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265010
+song_end
+song_begin: 08 Peasant Song.mp3
+Time: 162
+Artist: The Adolescents
+Title: Peasant Song
+Album: [1987] Brats In Battalions
+Track: 8/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265032
+song_end
+song_begin: 09 Skate Babylon.mp3
+Time: 170
+Artist: The Adolescents
+Title: Skate Babylon
+Album: [1987] Brats In Battalions
+Track: 9/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265057
+song_end
+song_begin: 10 Welcome to Reality.mp3
+Time: 122
+Artist: The Adolescents
+Title: Welcome to Reality
+Album: [1987] Brats In Battalions
+Track: 10/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265024
+song_end
+song_begin: 11 Marching With The Reich.mp3
+Time: 126
+Artist: The Adolescents
+Title: Marching With The Reich
+Album: [1987] Brats In Battalions
+Track: 11/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265019
+song_end
+song_begin: 12 I Got a Right.mp3
+Time: 167
+Artist: The Adolescents
+Title: I Got a Right
+Album: [1987] Brats In Battalions
+Track: 12/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264981
+song_end
+song_begin: 13 She Wolf.mp3
+Time: 255
+Artist: The Adolescents
+Title: She Wolf
+Album: [1987] Brats In Battalions
+Track: 13/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265043
+song_end
+end: The Adolescents/_1987_ Brats In Battalions
+directory: _1988_ Balboa Fun Zone
+mtime: 1340264804
+begin: The Adolescents/_1988_ Balboa Fun Zone
+song_begin: 01 Balboa Fun Zone (Riot On The Beach).mp3
+Time: 182
+Artist: The Adolescents
+Title: Balboa Fun Zone (Riot On The Beach)
+Album: [1988] Balboa Fun Zone
+Track: 1/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264734
+song_end
+song_begin: 02 Just Like Before.mp3
+Time: 208
+Artist: The Adolescents
+Title: Just Like Before
+Album: [1988] Balboa Fun Zone
+Track: 2/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264751
+song_end
+song_begin: 03 Instant Karma.mp3
+Time: 193
+Artist: The Adolescents
+Title: Instant Karma
+Album: [1988] Balboa Fun Zone
+Track: 3/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264758
+song_end
+song_begin: 04 Alone Against The World.mp3
+Time: 259
+Artist: The Adolescents
+Title: Alone Against The World
+Album: [1988] Balboa Fun Zone
+Track: 4/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264718
+song_end
+song_begin: 05 Allen Hotel.mp3
+Time: 206
+Artist: The Adolescents
+Title: Allen Hotel
+Album: [1988] Balboa Fun Zone
+Track: 5/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264775
+song_end
+song_begin: 06 Frustrated.mp3
+Time: 194
+Artist: The Adolescents
+Title: Frustrated
+Album: [1988] Balboa Fun Zone
+Track: 6/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264789
+song_end
+song_begin: 07 Genius In Pain.mp3
+Time: 217
+Artist: The Adolescents
+Title: Genius In Pain
+Album: [1988] Balboa Fun Zone
+Track: 7/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264804
+song_end
+song_begin: 08 It's Tattoo Time.mp3
+Time: 214
+Artist: The Adolescents
+Title: It's Tattoo Time
+Album: [1988] Balboa Fun Zone
+Track: 8/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264688
+song_end
+song_begin: 09 Til' She Comes Down.mp3
+Time: 251
+Artist: The Adolescents
+Title: Til' She Comes Down
+Album: [1988] Balboa Fun Zone
+Track: 9/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264743
+song_end
+song_begin: 10 Modern Day Napoleon.mp3
+Time: 218
+Artist: The Adolescents
+Title: Modern Day Napoleon
+Album: [1988] Balboa Fun Zone
+Track: 10/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264695
+song_end
+song_begin: 11 I'm A Victim.mp3
+Time: 277
+Artist: The Adolescents
+Title: I'm A Victim
+Album: [1988] Balboa Fun Zone
+Track: 11/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264728
+song_end
+song_begin: 12 Balboa Fun Zone (It's In Your Touch).mp3
+Time: 194
+Artist: The Adolescents
+Title: Balboa Fun Zone (It's In Your Touch)
+Album: [1988] Balboa Fun Zone
+Track: 12/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264708
+song_end
+song_begin: 13 Runaway.mp3
+Time: 274
+Artist: The Adolescents
+Title: Runaway
+Album: [1988] Balboa Fun Zone
+Track: 13/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264768
+song_end
+song_begin: 14 She Walks Alone.mp3
+Time: 206
+Artist: The Adolescents
+Title: She Walks Alone
+Album: [1988] Balboa Fun Zone
+Track: 14/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264782
+song_end
+song_begin: 15 Surf Yogi.mp3
+Time: 78
+Artist: The Adolescents
+Title: Surf Yogi
+Album: [1988] Balboa Fun Zone
+Track: 15/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264699
+song_end
+end: The Adolescents/_1988_ Balboa Fun Zone
+directory: _1989_ Live in 1981 and 1986
+mtime: 1340264678
+begin: The Adolescents/_1989_ Live in 1981 and 1986
+song_begin: 01 Ameoba.mp3
+Time: 177
+Artist: The Adolescents
+Title: Ameoba
+Album: [1989] Live in 1981 and 1986
+Track: 1/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264662
+song_end
+song_begin: 02 Who Is Who_.mp3
+Time: 77
+Artist: The Adolescents
+Title: Who Is Who?
+Album: [1989] Live in 1981 and 1986
+Track: 2/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264640
+song_end
+song_begin: 03 No Friends.mp3
+Time: 131
+Artist: The Adolescents
+Title: No Friends
+Album: [1989] Live in 1981 and 1986
+Track: 3/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264676
+song_end
+song_begin: 04 Welcome to Reality.mp3
+Time: 127
+Artist: The Adolescents
+Title: Welcome to Reality
+Album: [1989] Live in 1981 and 1986
+Track: 4/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264672
+song_end
+song_begin: 05 Self Destruct.mp3
+Time: 48
+Artist: The Adolescents
+Title: Self Destruct
+Album: [1989] Live in 1981 and 1986
+Track: 5/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264642
+song_end
+song_begin: 06 Things Start Moving.mp3
+Time: 169
+Artist: The Adolescents
+Title: Things Start Moving
+Album: [1989] Live in 1981 and 1986
+Track: 6/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264634
+song_end
+song_begin: 07 Word Attack.mp3
+Time: 63
+Artist: The Adolescents
+Title: Word Attack
+Album: [1989] Live in 1981 and 1986
+Track: 7/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264656
+song_end
+song_begin: 08 Losing Battle.mp3
+Time: 97
+Artist: The Adolescents
+Title: Losing Battle
+Album: [1989] Live in 1981 and 1986
+Track: 8/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264668
+song_end
+song_begin: 09 I Got a Right.mp3
+Time: 196
+Artist: The Adolescents
+Title: I Got a Right
+Album: [1989] Live in 1981 and 1986
+Track: 9/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264621
+song_end
+song_begin: 10 No Way.mp3
+Time: 137
+Artist: The Adolescents
+Title: No Way
+Album: [1989] Live in 1981 and 1986
+Track: 10/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264638
+song_end
+song_begin: 11 The Liar.mp3
+Time: 118
+Artist: The Adolescents
+Title: The Liar
+Album: [1989] Live in 1981 and 1986
+Track: 11/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264624
+song_end
+song_begin: 12 Rip It Up.mp3
+Time: 140
+Artist: The Adolescents
+Title: Rip It Up
+Album: [1989] Live in 1981 and 1986
+Track: 12/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264629
+song_end
+song_begin: 13 L_A_ Girl.mp3
+Time: 89
+Artist: The Adolescents
+Title: L.A. Girl
+Album: [1989] Live in 1981 and 1986
+Track: 13/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264678
+song_end
+song_begin: 14 Wrecking Crew.mp3
+Time: 127
+Artist: The Adolescents
+Title: Wrecking Crew
+Album: [1989] Live in 1981 and 1986
+Track: 14/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264654
+song_end
+song_begin: 15 Creatures.mp3
+Time: 113
+Artist: The Adolescents
+Title: Creatures
+Album: [1989] Live in 1981 and 1986
+Track: 15/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264665
+song_end
+song_begin: 16 Kids Of The Black Hole.mp3
+Time: 302
+Artist: The Adolescents
+Title: Kids Of The Black Hole
+Album: [1989] Live in 1981 and 1986
+Track: 16/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264650
+song_end
+end: The Adolescents/_1989_ Live in 1981 and 1986
+directory: _1997_ Return to the Black Hole (live album)
+mtime: 1340264615
+begin: The Adolescents/_1997_ Return to the Black Hole (live album)
+song_begin: 01 No Way.mp3
+Time: 209
+Artist: The Adolescents
+Title: No Way
+Album: [1997] Return to the Black Hole (live album)
+Track: 1/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264550
+song_end
+song_begin: 02 Who Is Who_.mp3
+Time: 88
+Artist: The Adolescents
+Title: Who Is Who?
+Album: [1997] Return to the Black Hole (live album)
+Track: 2/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264573
+song_end
+song_begin: 03 Word Attack.mp3
+Time: 71
+Artist: The Adolescents
+Title: Word Attack
+Album: [1997] Return to the Black Hole (live album)
+Track: 3/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264580
+song_end
+song_begin: 04 Self Destruct.mp3
+Time: 43
+Artist: The Adolescents
+Title: Self Destruct
+Album: [1997] Return to the Black Hole (live album)
+Track: 4/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264610
+song_end
+song_begin: 05 L_A_ Girl.mp3
+Time: 123
+Artist: The Adolescents
+Title: L.A. Girl
+Album: [1997] Return to the Black Hole (live album)
+Track: 5/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264539
+song_end
+song_begin: 06 Brats In Battalions.mp3
+Time: 149
+Artist: The Adolescents
+Title: Brats In Battalions
+Album: [1997] Return to the Black Hole (live album)
+Track: 6/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264578
+song_end
+song_begin: 07 Welcome to Reality.mp3
+Time: 131
+Artist: The Adolescents
+Title: Welcome to Reality
+Album: [1997] Return to the Black Hole (live album)
+Track: 7/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264591
+song_end
+song_begin: 08 Wrecking Crew.mp3
+Time: 144
+Artist: The Adolescents
+Title: Wrecking Crew
+Album: [1997] Return to the Black Hole (live album)
+Track: 8/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264571
+song_end
+song_begin: 09 Do The Eddie.mp3
+Time: 64
+Artist: The Adolescents
+Title: Do The Eddie
+Album: [1997] Return to the Black Hole (live album)
+Track: 9/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264588
+song_end
+song_begin: 10 I Love You.mp3
+Time: 253
+Artist: The Adolescents
+Title: I Love You
+Album: [1997] Return to the Black Hole (live album)
+Track: 10/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264598
+song_end
+song_begin: 11 Losing Battle.mp3
+Time: 153
+Artist: The Adolescents
+Title: Losing Battle
+Album: [1997] Return to the Black Hole (live album)
+Track: 11/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264544
+song_end
+song_begin: 12 Creatures.mp3
+Time: 190
+Artist: The Adolescents
+Title: Creatures
+Album: [1997] Return to the Black Hole (live album)
+Track: 12/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264586
+song_end
+song_begin: 13 All Day and All of The Night.mp3
+Time: 162
+Artist: The Adolescents
+Title: All Day and All of The Night
+Album: [1997] Return to the Black Hole (live album)
+Track: 13/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264615
+song_end
+song_begin: 14 Rip It Up.mp3
+Time: 151
+Artist: The Adolescents
+Title: Rip It Up
+Album: [1997] Return to the Black Hole (live album)
+Track: 14/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264561
+song_end
+song_begin: 15 Amoeba.mp3
+Time: 193
+Artist: The Adolescents
+Title: Amoeba
+Album: [1997] Return to the Black Hole (live album)
+Track: 15/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264566
+song_end
+song_begin: 16 Kids Of The Blackhole.mp3
+Time: 345
+Artist: The Adolescents
+Title: Kids Of The Blackhole
+Album: [1997] Return to the Black Hole (live album)
+Track: 16/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264609
+song_end
+song_begin: 17 I Got a Right.mp3
+Time: 258
+Artist: The Adolescents
+Title: I Got a Right
+Album: [1997] Return to the Black Hole (live album)
+Track: 17/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264557
+song_end
+end: The Adolescents/_1997_ Return to the Black Hole (live album)
+directory: _2003_ Live At The House Of Blues
+mtime: 1340265185
+begin: The Adolescents/_2003_ Live At The House Of Blues
+song_begin: 01 No Way.mp3
+Time: 155
+Artist: The Adolescents
+Title: No Way
+Album: [2003] Live At The House Of Blues
+Track: 1/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265088
+song_end
+song_begin: 02 Who Is Who_.mp3
+Time: 79
+Artist: The Adolescents
+Title: Who Is Who?
+Album: [2003] Live At The House Of Blues
+Track: 2/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265131
+song_end
+song_begin: 03 Self Destruct.mp3
+Time: 53
+Artist: The Adolescents
+Title: Self Destruct
+Album: [2003] Live At The House Of Blues
+Track: 3/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265115
+song_end
+song_begin: 04 Democracy.mp3
+Time: 153
+Artist: The Adolescents
+Title: Democracy
+Album: [2003] Live At The House Of Blues
+Track: 4/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265158
+song_end
+song_begin: 05 O_C_ Confidential.mp3
+Time: 210
+Artist: The Adolescents
+Title: O.C. Confidential
+Album: [2003] Live At The House Of Blues
+Track: 5/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265149
+song_end
+song_begin: 06 Creatures.mp3
+Time: 125
+Artist: The Adolescents
+Title: Creatures
+Album: [2003] Live At The House Of Blues
+Track: 6/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265172
+song_end
+song_begin: 07 Welcome to Reality.mp3
+Time: 126
+Artist: The Adolescents
+Title: Welcome to Reality
+Album: [2003] Live At The House Of Blues
+Track: 7/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265142
+song_end
+song_begin: 08 California Son.mp3
+Time: 227
+Artist: The Adolescents
+Title: California Son
+Album: [2003] Live At The House Of Blues
+Track: 8/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265112
+song_end
+song_begin: 09 Wrecking Crew.mp3
+Time: 131
+Artist: The Adolescents
+Title: Wrecking Crew
+Album: [2003] Live At The House Of Blues
+Track: 9/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265077
+song_end
+song_begin: 10 American Lockdown.mp3
+Time: 192
+Artist: The Adolescents
+Title: American Lockdown
+Album: [2003] Live At The House Of Blues
+Track: 10/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265104
+song_end
+song_begin: 11 L_A_ Girl.mp3
+Time: 108
+Artist: The Adolescents
+Title: L.A. Girl
+Album: [2003] Live At The House Of Blues
+Track: 11/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265153
+song_end
+song_begin: 12 No Friends.mp3
+Time: 154
+Artist: The Adolescents
+Title: No Friends
+Album: [2003] Live At The House Of Blues
+Track: 12/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265082
+song_end
+song_begin: 13 Things Start Moving.mp3
+Time: 188
+Artist: The Adolescents
+Title: Things Start Moving
+Album: [2003] Live At The House Of Blues
+Track: 13/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265178
+song_end
+song_begin: 14 Rip It Up.mp3
+Time: 158
+Artist: The Adolescents
+Title: Rip It Up
+Album: [2003] Live At The House Of Blues
+Track: 14/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265097
+song_end
+song_begin: 15 Hawks & Dove.mp3
+Time: 120
+Artist: The Adolescents
+Title: Hawks & Dove
+Album: [2003] Live At The House Of Blues
+Track: 15/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265162
+song_end
+song_begin: 16 Within These Walls.mp3
+Time: 128
+Artist: The Adolescents
+Title: Within These Walls
+Album: [2003] Live At The House Of Blues
+Track: 16/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265167
+song_end
+song_begin: 17 Word Attack.mp3
+Time: 182
+Artist: The Adolescents
+Title: Word Attack
+Album: [2003] Live At The House Of Blues
+Track: 17/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265137
+song_end
+song_begin: 18 Amoeba.mp3
+Time: 113
+Artist: The Adolescents
+Title: Amoeba
+Album: [2003] Live At The House Of Blues
+Track: 18/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265091
+song_end
+song_begin: 19 Kids Of The Black Hole.mp3
+Time: 196
+Artist: The Adolescents
+Title: Kids Of The Black Hole
+Album: [2003] Live At The House Of Blues
+Track: 19/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265185
+song_end
+song_begin: 20 Untitled (Bonus Track).mp3
+Time: 371
+Artist: The Adolescents
+Title: Untitled (Bonus Track)
+Album: [2003] Live At The House Of Blues
+Track: 20/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340265128
+song_end
+end: The Adolescents/_2003_ Live At The House Of Blues
+directory: _2003_ Unwrap and Blow Me Ep
+mtime: 1340264822
+begin: The Adolescents/_2003_ Unwrap and Blow Me Ep
+song_begin: 01 Hawks And Doves.mp3
+Time: 125
+Artist: The Adolescents
+Title: Hawks And Doves
+Album: [2003] Unwrap and Blow Me Ep
+Track: 1/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264807
+song_end
+song_begin: 02 Where The Children Play.mp3
+Time: 154
+Artist: The Adolescents
+Title: Where The Children Play
+Album: [2003] Unwrap and Blow Me Ep
+Track: 2/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264810
+song_end
+song_begin: 03 California Son.mp3
+Time: 210
+Artist: The Adolescents
+Title: California Son
+Album: [2003] Unwrap and Blow Me Ep
+Track: 3/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264822
+song_end
+song_begin: 04 O_C_ Confidential.mp3
+Time: 215
+Artist: The Adolescents
+Title: O.C. Confidential
+Album: [2003] Unwrap and Blow Me Ep
+Track: 4/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264796
+song_end
+song_begin: 05 Pointless Teenage Anthem.mp3
+Time: 115
+Artist: The Adolescents
+Title: Pointless Teenage Anthem
+Album: [2003] Unwrap and Blow Me Ep
+Track: 5/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264792
+song_end
+song_begin: 06 Within These Walls.mp3
+Time: 199
+Artist: The Adolescents
+Title: Within These Walls
+Album: [2003] Unwrap and Blow Me Ep
+Track: 6/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264814
+song_end
+end: The Adolescents/_2003_ Unwrap and Blow Me Ep
+directory: _2005_ O_C_ Confidential
+mtime: 1340264535
+begin: The Adolescents/_2005_ O_C_ Confidential
+song_begin: 01 Hawks And Doves.mp3
+Time: 123
+Artist: The Adolescents
+Title: Hawks And Doves
+Album: [2005] O.C. Confidential
+Track: 1/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264464
+song_end
+song_begin: 02 Lockdown America.mp3
+Time: 213
+Artist: The Adolescents
+Title: Lockdown America
+Album: [2005] O.C. Confidential
+Track: 2/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264439
+song_end
+song_begin: 03 Where The Children Play.mp3
+Time: 153
+Artist: The Adolescents
+Title: Where The Children Play
+Album: [2005] O.C. Confidential
+Track: 3/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264446
+song_end
+song_begin: 04 California Son.mp3
+Time: 211
+Artist: The Adolescents
+Title: California Son
+Album: [2005] O.C. Confidential
+Track: 4/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264535
+song_end
+song_begin: 05 Guns Of September.mp3
+Time: 198
+Artist: The Adolescents
+Title: Guns Of September
+Album: [2005] O.C. Confidential
+Track: 5/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264430
+song_end
+song_begin: 06 Pointless Teenage Anthem.mp3
+Time: 115
+Artist: The Adolescents
+Title: Pointless Teenage Anthem
+Album: [2005] O.C. Confidential
+Track: 6/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264487
+song_end
+song_begin: 07 Death On Friday.mp3
+Time: 194
+Artist: The Adolescents
+Title: Death On Friday
+Album: [2005] O.C. Confidential
+Track: 7/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264472
+song_end
+song_begin: 08 Into The Fire.mp3
+Time: 240
+Artist: The Adolescents
+Title: Into The Fire
+Album: [2005] O.C. Confidential
+Track: 8/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264517
+song_end
+song_begin: 09 Within These Walls.mp3
+Time: 197
+Artist: The Adolescents
+Title: Within These Walls
+Album: [2005] O.C. Confidential
+Track: 9/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264526
+song_end
+song_begin: 10 Let It Rain.mp3
+Time: 211
+Artist: The Adolescents
+Title: Let It Rain
+Album: [2005] O.C. Confidential
+Track: 10/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264482
+song_end
+song_begin: 11 OC Confidential.mp3
+Time: 212
+Artist: The Adolescents
+Title: OC Confidential
+Album: [2005] O.C. Confidential
+Track: 11/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264496
+song_end
+song_begin: 12 Monsanto Hayride.mp3
+Time: 224
+Artist: The Adolescents
+Title: Monsanto Hayride
+Album: [2005] O.C. Confidential
+Track: 12/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264506
+song_end
+song_begin: 13 Find A Way.mp3
+Time: 260
+Artist: The Adolescents
+Title: Find A Way
+Album: [2005] O.C. Confidential
+Track: 13/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264458
+song_end
+end: The Adolescents/_2005_ O_C_ Confidential
+directory: _2005_ The Complete Demos 1980-1986
+mtime: 1340264875
+begin: The Adolescents/_2005_ The Complete Demos 1980-1986
+song_begin: 01 We Can't Change The World.mp3
+Time: 72
+Artist: The Adolescents
+Title: We Can't Change The World
+Album: [2005] The Complete Demos 1980-1986
+Track: 1/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264818
+song_end
+song_begin: 02 Black Sheep.mp3
+Time: 122
+Artist: The Adolescents
+Title: Black Sheep
+Album: [2005] The Complete Demos 1980-1986
+Track: 2/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264875
+song_end
+song_begin: 03 Growing Up Today.mp3
+Time: 148
+Artist: The Adolescents
+Title: Growing Up Today
+Album: [2005] The Complete Demos 1980-1986
+Track: 3/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264850
+song_end
+song_begin: 04 We Rule And You Don't.mp3
+Time: 100
+Artist: The Adolescents
+Title: We Rule And You Don't
+Album: [2005] The Complete Demos 1980-1986
+Track: 4/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264834
+song_end
+song_begin: 05 I Hate Children.mp3
+Time: 100
+Artist: The Adolescents
+Title: I Hate Children
+Album: [2005] The Complete Demos 1980-1986
+Track: 5/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264847
+song_end
+song_begin: 06 No Friends.mp3
+Time: 140
+Artist: The Adolescents
+Title: No Friends
+Album: [2005] The Complete Demos 1980-1986
+Track: 6/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264854
+song_end
+song_begin: 07 Who Is Who_.mp3
+Time: 89
+Artist: The Adolescents
+Title: Who Is Who?
+Album: [2005] The Complete Demos 1980-1986
+Track: 7/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264844
+song_end
+song_begin: 08 Wrecking Crew (Phantom Studios).mp3
+Time: 116
+Artist: The Adolescents
+Title: Wrecking Crew (Phantom Studios)
+Album: [2005] The Complete Demos 1980-1986
+Track: 8/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264826
+song_end
+song_begin: 09 Wrecking Crew (Casbah Fullerton).mp3
+Time: 114
+Artist: The Adolescents
+Title: Wrecking Crew (Casbah Fullerton)
+Album: [2005] The Complete Demos 1980-1986
+Track: 9/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264858
+song_end
+song_begin: 10 Creatures.mp3
+Time: 105
+Artist: The Adolescents
+Title: Creatures
+Album: [2005] The Complete Demos 1980-1986
+Track: 10/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264873
+song_end
+song_begin: 11 Amoeba.mp3
+Time: 160
+Artist: The Adolescents
+Title: Amoeba
+Album: [2005] The Complete Demos 1980-1986
+Track: 11/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264864
+song_end
+song_begin: 12 Self Destruct.mp3
+Time: 42
+Artist: The Adolescents
+Title: Self Destruct
+Album: [2005] The Complete Demos 1980-1986
+Track: 12/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264832
+song_end
+song_begin: 13 Do The Eddie.mp3
+Time: 46
+Artist: The Adolescents
+Title: Do The Eddie
+Album: [2005] The Complete Demos 1980-1986
+Track: 13/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264837
+song_end
+song_begin: 14 Richard Hung Himself (Original).mp3
+Time: 132
+Artist: The Adolescents
+Title: Richard Hung Himself (Original)
+Album: [2005] The Complete Demos 1980-1986
+Track: 14/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264841
+song_end
+song_begin: 15 The Liar.mp3
+Time: 130
+Artist: The Adolescents
+Title: The Liar
+Album: [2005] The Complete Demos 1980-1986
+Track: 15/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264830
+song_end
+song_begin: 16 The Peasant Song.mp3
+Time: 163
+Artist: The Adolescents
+Title: The Peasant Song
+Album: [2005] The Complete Demos 1980-1986
+Track: 16/0
+Genre: Hardcore Punk
+Disc: 0/0
+mtime: 1340264869
+song_end
+end: The Adolescents/_2005_ The Complete Demos 1980-1986
+end: The Adolescents
+directory: The Safety Fire
+mtime: 1340264298
+begin: The Safety Fire
+directory: Grind The Ocean
+mtime: 1340264412
+begin: The Safety Fire/Grind The Ocean
+song_begin: 01 Huge Hammers.mp3
+Time: 386
+Artist: The Safety Fire
+AlbumArtist: The Safety Fire
+Title: Huge Hammers
+Album: Grind The Ocean
+Track: 1/9
+Date: 2012
+Genre: Pop Rock. Metal
+Disc: 0/0
+mtime: 1340264361
+song_end
+song_begin: 02 Floods of Colour.mp3
+Time: 385
+Artist: The Safety Fire
+AlbumArtist: The Safety Fire
+Title: Floods of Colour
+Album: Grind The Ocean
+Track: 2/9
+Date: 2012
+Genre: Pop Rock. Metal
+Disc: 0/0
+mtime: 1340264377
+song_end
+song_begin: 03 DMP (FDP).mp3
+Time: 323
+Artist: The Safety Fire
+AlbumArtist: The Safety Fire
+Title: DMP (FDP)
+Album: Grind The Ocean
+Track: 3/9
+Date: 2012
+Genre: Pop Rock. Metal
+Disc: 0/0
+mtime: 1340264298
+song_end
+song_begin: 04 Anomolous Materials.mp3
+Time: 112
+Artist: The Safety Fire
+AlbumArtist: The Safety Fire
+Title: Anomolous Materials
+Album: Grind The Ocean
+Track: 4/9
+Date: 2012
+Genre: Pop Rock. Metal
+Disc: 0/0
+mtime: 1340264303
+song_end
+song_begin: 05 Animal King.mp3
+Time: 357
+Artist: The Safety Fire
+AlbumArtist: The Safety Fire
+Title: Animal King
+Album: Grind The Ocean
+Track: 5/9
+Date: 2012
+Genre: Pop Rock. Metal
+Disc: 0/0
+mtime: 1340264412
+song_end
+song_begin: 06 Circassian Beauties.mp3
+Time: 370
+Artist: The Safety Fire
+AlbumArtist: The Safety Fire
+Title: Circassian Beauties
+Album: Grind The Ocean
+Track: 6/9
+Date: 2012
+Genre: Pop Rock. Metal
+Disc: 0/0
+mtime: 1340264344
+song_end
+song_begin: 07 Sections.mp3
+Time: 374
+Artist: The Safety Fire
+AlbumArtist: The Safety Fire
+Title: Sections
+Album: Grind The Ocean
+Track: 7/9
+Date: 2012
+Genre: Pop Rock. Metal
+Disc: 0/0
+mtime: 1340264394
+song_end
+song_begin: 08 Seagraves (Instrumental).mp3
+Time: 133
+Artist: The Safety Fire
+AlbumArtist: The Safety Fire
+Title: Seagraves (Instrumental)
+Album: Grind The Ocean
+Track: 8/9
+Date: 2012
+Genre: Pop Rock. Metal
+Disc: 0/0
+mtime: 1340264310
+song_end
+song_begin: 09 Grind the Ocean.mp3
+Time: 420
+Artist: The Safety Fire
+AlbumArtist: The Safety Fire
+Title: Grind the Ocean
+Album: Grind The Ocean
+Track: 9/9
+Date: 2012
+Genre: Pop Rock. Metal
+Disc: 0/0
+mtime: 1340264328
+song_end
+end: The Safety Fire/Grind The Ocean
+end: The Safety Fire
+directory: Veil Of Maya
+mtime: 1340265192
+begin: Veil Of Maya
+directory: Eclipse
+mtime: 1340265262
+begin: Veil Of Maya/Eclipse
+song_begin: 01 20_200.mp3
+Time: 76
+Artist: Veil Of Maya
+Title: 20/200
+Album: Eclipse
+Track: 1/0
+Date: 2012
+Genre: Progressive / Technical Deathcore / Death Metal
+Disc: 0/0
+mtime: 1340265262
+song_end
+song_begin: 02 Divide Paths.mp3
+Time: 169
+Artist: Veil Of Maya
+Title: Divide Paths
+Album: Eclipse
+Track: 2/0
+Date: 2012
+Genre: Progressive / Technical Deathcore / Death Metal
+Disc: 0/0
+mtime: 1340265247
+song_end
+song_begin: 03 Punisher.mp3
+Time: 153
+Artist: Veil Of Maya
+Title: Punisher
+Album: Eclipse
+Track: 3/0
+Date: 2012
+Genre: Progressive / Technical Deathcore / Death Metal
+Disc: 0/0
+mtime: 1340265192
+song_end
+song_begin: 04 Winter Is Coming Soon.mp3
+Time: 132
+Artist: Veil Of Maya
+Title: Winter Is Coming Soon
+Album: Eclipse
+Track: 4/0
+Date: 2012
+Genre: Progressive / Technical Deathcore / Death Metal
+Disc: 0/0
+mtime: 1340265217
+song_end
+song_begin: 05 The Glass Slide.mp3
+Time: 212
+Artist: Veil Of Maya
+Title: The Glass Slide
+Album: Eclipse
+Track: 5/0
+Date: 2012
+Genre: Progressive / Technical Deathcore / Death Metal
+Disc: 0/0
+mtime: 1340265202
+song_end
+song_begin: 06 Enter My Dreams.mp3
+Time: 174
+Artist: Veil Of Maya
+Title: Enter My Dreams
+Album: Eclipse
+Track: 6/0
+Date: 2012
+Genre: Progressive / Technical Deathcore / Death Metal
+Disc: 0/0
+mtime: 1340265231
+song_end
+song_begin: 07 Numerical Scheme.mp3
+Time: 198
+Artist: Veil Of Maya
+Title: Numerical Scheme
+Album: Eclipse
+Track: 7/0
+Date: 2012
+Genre: Progressive / Technical Deathcore / Death Metal
+Disc: 0/0
+mtime: 1340265240
+song_end
+song_begin: 08 Vicious Circles.mp3
+Time: 199
+Artist: Veil Of Maya
+Title: Vicious Circles
+Album: Eclipse
+Track: 8/0
+Date: 2012
+Genre: Progressive / Technical Deathcore / Death Metal
+Disc: 0/0
+mtime: 1340265210
+song_end
+song_begin: 09 Eclipse.mp3
+Time: 144
+Artist: Veil Of Maya
+Title: Eclipse
+Album: Eclipse
+Track: 9/0
+Date: 2012
+Genre: Progressive / Technical Deathcore / Death Metal
+Disc: 0/0
+mtime: 1340265223
+song_end
+song_begin: 10 With Passion and Power.mp3
+Time: 245
+Artist: Veil Of Maya
+Title: With Passion and Power
+Album: Eclipse
+Track: 10/0
+Date: 2012
+Genre: Progressive / Technical Deathcore / Death Metal
+Disc: 0/0
+mtime: 1340265258
+song_end
+end: Veil Of Maya/Eclipse
+end: Veil Of Maya

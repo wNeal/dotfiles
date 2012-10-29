@@ -1,0 +1,59 @@
+! Traditional fonts - a more traditional font setup in lieu of 
+*font: -artwiz-lime-medium-r-normal-*-10-*-*-*-*-*-*-*
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: 0
+Xft.hintstyle: hintnone
+Xft.rgba: rgb
+
+urxvt*font: xft:lime.se
+urxvt*boldFont: xft:lime.se 
+
+*scrollBar: false
+urxvt*scrollBar_right: false
+urxvt*title: 			Terminal
+urxvt*termName: 		rxvt-unicode
+urxvt*scrollTtyKeypress:    	
+urxvt*scrollTtyOutput:      	false
+urxvt*scrollWithBuffer:     	false
+urxvt*secondaryScroll:  	
+
+! http://termscheme.eu
+! Green and Dark Grey inspired theme
+*background: #101810
+*foreground: #96c171
+*fading:     40
+*fadeColor:  #232323
+*cursorColor: #547015
+
+! Black
+*color0: #101810
+*color8: #4b4f51
+
+! Red
+*color1: #ffae4e
+*color9: #fa850e
+
+! Green
+*color2: #8fca0c
+*color10: #547015
+
+! Yellow
+*color3: #d6f418
+*color11: #d0d408
+
+! Blue
+*color4: #13acdd
+*color12: #057a8f
+
+! Magenta
+*color5: #df112a
+*color13: #9d0647
+
+! Cyan
+*color6: #79d6b1
+*color14: #10ad72
+
+! White
+*color7: #96c171
+*color15: #b8c4ab

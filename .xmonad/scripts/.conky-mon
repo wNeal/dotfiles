@@ -1,0 +1,64 @@
+background        no
+out_to_console    yes
+update_interval   2
+total_run_times   0
+uppercase         no
+use_spacer        none
+short_units       no
+
+template0       /home/weston/.xmonad/icons/
+template1       /home/weston/.xmonad/scripts/var/
+
+TEXT
+^fg(\#ffffff)| \
+\
+^fg(\#808080)^i(${template0}cpu.xbm) \
+^fg(\#87afd7)${cpu cpu1}% \
+${cpu cpu2}% \
+${cpu cpu3}% \
+${cpu cpu4}% \
+\
+^fg(\#808080)^i(${template0}mem.xbm)\
+^fg(\#87afd7)${memperc}% \
+\
+^fg(\#ffffff)| \
+\
+${if_match ${exec cat /sys/class/power_supply/AC0/online} == 1}\
+${if_match ${battery_percent BAT0} == 100}\
+^fg(\#87af5f)^i(${template0}ac-charged.xbm)\
+${else}\
+^fg(\#808080)^i(${template0}ac-charging.xbm)\
+${endif}\
+${else}\
+${if_match ${battery_percent BAT0} >= 50}\
+^fg(\#87af5f)^i(${template0}battery-full.xbm)\
+${else}\
+${if_match ${battery_percent BAT0} >= 25}\
+^fg(\#ffaf5f)^i(${template0}battery-low.xbm)\
+${else}\
+${if_match ${battery_percent BAT0} >= 12}\
+^fg(\#d75f5f)^i(${template0}battery-critical.xbm))\
+${else}\
+^fg(\#d75f5f)^i(${template0}battery-empty.xbm)\
+${endif}\
+${endif}\
+${endif}\
+${endif}\
+\
+${if_match ${exec grep -c wlan0 /proc/net/route} > 0}\
+${if_match ${wireless_link_qual_perc wlan0} >= 60}\
+^fg(\#87af5f)^i(${template0}wireless-high.xbm)\
+${else}\
+${if_match ${wireless_link_qual wlan0} >= 30}\
+^fg(\#ffaf5f)^i(${template0}wireless-medium.xbm)\
+${else}\
+^fg(\#87af5f)^i(${template0}wireless-low.xbm)\
+${endif}\
+${endif}\
+${else}\
+\
+^fg(\#000000)^i(${template0}wireless-disconnected.xbm)\
+${endif}\
+ \
+^fg(\#ffffff)| \
+^fg(\#87afd7)${time %a %b %d} ${time %I:%M%P} \
